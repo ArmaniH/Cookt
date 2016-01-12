@@ -21,6 +21,8 @@ module Cookt
     # config.i18n.default_locale = :de
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
+    #protect_from_forgery with: :null_session, if: Proc.new { |c| c.request.format == 'application/json' }
+
     config.active_record.raise_in_transactional_callbacks = true
   end
 end

@@ -17,10 +17,10 @@ ActiveRecord::Schema.define(version: 20160109214251) do
   enable_extension "plpgsql"
 
   create_table "recipes", force: :cascade do |t|
-    t.string   "title",       limit: 100, null: false
-    t.float    "price"
-    t.integer  "subject_id"
-    t.text     "description"
+    t.string   "hit",       limit: 100, null: false
+    t.integer  "recipe"
+    t.string   "label"
+    t.string   "image"
     t.datetime "created_at"
   end
 

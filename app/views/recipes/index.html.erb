@@ -1,7 +1,7 @@
 <h1>
   <!-- <form action="#" method="post"> -->
   <!-- <input name="Recipe" placeholder="Ingredients" type="text"></form></h1> -->
-  Hours <input type='text' value'' calss='js-hours'/>
+  Hours <input type='text' value='' class='js-hours'/>
   Minutes <input type='text' value='' class='js-minutes'/>
   Seconds  <input type='text' value='' class='js-seconds'/>
 
@@ -17,9 +17,20 @@
   <input id="recipeSearch" type="submit">
 </form>
 
-<!-- <form method="get" action="#">
-  <label>Calorie Search:</label>
-  <input id="calorieSearch" type="submit">
-</form> -->
+<table>
+  <% @recipes.each do |recipe| %>
+  <a href="/recipes/<%= recipe.id %>">
+  <div class<%"jsr %>ecipes"></div>
+</a>
+<% end %>
+</table>
 
-<p>Recipe: <%= @recipes %></p>
+<!-- <ul class="recipeRender">
+    <li> -->
+    <!-- <table>
+      <a href="">
+      <div class="jsrecipes"></div>
+    </a>
+    </table> -->
+    <!-- </li>
+</ul> -->

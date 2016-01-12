@@ -3,20 +3,18 @@ class RecipesController < ApplicationController
     @recipes = Recipe.all
     respond_to do |format|
       format.html { render :index }
-      format.json { render json: @recipes }
+      format.json { render jsonp: @recipes }
     end
   end
 
-  # GET /recipes/1
-  # GET /recipes/1.json
   def show
     respond_to do |format|
       format.html { render :show }
-      format.json { render json: @recipe }
+      format.json { render jsonp: @recipe }
     end
   end
 
   def recipe_params
-      params.require(:recipe).permit(:hits, :recipie, :label, :image)
+      params.require(:recipe).permit(:hits, :recipe, :label, :image)
     end
 end

@@ -1,14 +1,19 @@
-<h1>
+<div id="timerDiv">
+<h3>
   <!-- <form action="#" method="post"> -->
   <!-- <input name="Recipe" placeholder="Ingredients" type="text"></form></h1> -->
-  Hours <input type='text' value='' class='js-hours'/>
-  Minutes <input type='text' value='' class='js-minutes'/>
-  Seconds  <input type='text' value='' class='js-seconds'/>
+  <button id="addTimer">Add Timer</button>
+  <button id="removeTimer">Remove Timer</button>
+    <div class="timerContainer">
+      Hours <input type='text' value='' class='js-hours'/>
+      Minutes <input type='text' value='' class='js-minutes'/>
+      Seconds  <input type='text' value='' class='js-seconds'/>
+      <button id='startTimer'>Start</button>
+  Time Left: <div class='js-time-left'></div>
+    </div>
+</h3>
 
-  <button id='startTimer'>Start</button>
-</h1>
-
-  <h2>Time Left: <span class='js-time-left'></span></h2>
+</div>
 
 <form method="get" action="#">
   <label>Recipe Search:</label>
@@ -19,10 +24,13 @@
 
 <!-- <ul class="recipeRender">
     <li> -->
+      <iframe id="iframe" width="100%" height="300px" name="iframe_a"></iframe>
+      <p><a id="iframeLink" href="" target="iframe_a"><div class="jsrecipes"></div>
+
     <table>
-      <!-- <a href="" class="recipe_url"> -->
       <div class="jsrecipes"></div>
     <!-- </a> -->
     </table>
+    </a></p>
     <!-- </li>
 </ul> -->

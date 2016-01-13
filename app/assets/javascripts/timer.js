@@ -1,4 +1,13 @@
 $(document).ready(function(){
+  var i = 1
+  $('#addTimer').click(function(){
+    $('.timerContainer:last').clone().appendTo('#timerDiv')
+  });
+  $('#removeTimer').click(function(){
+    $('.timerContainer:last').remove()
+  });
+i++
+
   $('button').click(function(){
     var hours = $(".js-hours").val();
     var minutes = $(".js-minutes").val();

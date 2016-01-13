@@ -23647,3 +23647,544 @@ Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e357172
 
 
 Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:22:03 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:29:43 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1483ms (Views: 1413.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:29:49 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:29:49 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:29:49 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:29:49 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:29:50 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:29:50 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:29:50 -0500
+
+
+Started GET "/assets/script.self-673f57a53f1feafb2cc94058d679a3f48000fb1cba244c85f712c662e979b110.js?body=1" for ::1 at 2016-01-12 19:29:50 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:30:57 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 1476ms (Views: 1391.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:31:01 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:31:01 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:31:01 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:31:02 -0500
+
+
+Started GET "/assets/script.self-d176d1f532b50669b5ff1849382532f2d34fa9ca70cac430d124e52248123daf.js?body=1" for ::1 at 2016-01-12 19:31:02 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:31:02 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:31:02 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:31:02 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:32:48 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (44.0ms)
+Completed 200 OK in 904ms (Views: 853.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:32:51 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:32:51 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:32:51 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:32:51 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:32:51 -0500
+
+
+Started GET "/assets/script.self-aeb58220e0251e3fbe3f4333d842c5c0be692be62ed10e2ecb08e92515aa81fc.js?body=1" for ::1 at 2016-01-12 19:32:51 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:32:52 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:32:52 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:52:32 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 920ms (Views: 850.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:52:35 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:52:36 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:52:36 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:52:36 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:52:36 -0500
+
+
+Started GET "/assets/script.self-e4cce563d4fcd8762d2874a370836689bfae101c5cfff99144faafdb4b2e21bc.js?body=1" for ::1 at 2016-01-12 19:52:36 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:52:36 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:52:36 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:55:10 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 980ms (Views: 887.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:55:12 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:55:13 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:55:13 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:55:13 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:55:13 -0500
+
+
+Started GET "/assets/script.self-25e41e3b6039a6b2634d11e46e2f02bc52eec7986c20d64c6a2ee72ab7ea9255.js?body=1" for ::1 at 2016-01-12 19:55:13 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:55:13 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:55:13 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:56:52 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 645ms (Views: 603.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:56:54 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:56:54 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:56:54 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:56:54 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:56:54 -0500
+
+
+Started GET "/assets/script.self-18c7b06517fcbe0d3a6f18b5f45f5e8d89b53da09a66a00ae4f7791d900747d3.js?body=1" for ::1 at 2016-01-12 19:56:54 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:56:54 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:56:54 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:58:24 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 1098ms (Views: 1023.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:58:30 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:58:30 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:58:30 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:58:30 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:58:30 -0500
+
+
+Started GET "/assets/script.self-9c3edf47a87dabf0b51a22d1bd685182e6b8e01bc32b9bce9529b75836aa2aa6.js?body=1" for ::1 at 2016-01-12 19:58:30 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:58:30 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:58:30 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:02:41 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1140ms (Views: 1088.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:02:44 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:02:44 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:02:44 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:02:44 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:02:44 -0500
+
+
+Started GET "/assets/script.self-c35068eef3e4605ce9d661a0849e678ab509f6888849a19d52c9a5b26d0b8841.js?body=1" for ::1 at 2016-01-12 20:02:45 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:02:45 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:02:45 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:06:25 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1044ms (Views: 1017.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:06:30 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:06:30 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:06:30 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:06:30 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:06:30 -0500
+
+
+Started GET "/assets/script.self-0e5814f8fffb7a87aebe217b340afb3117edbccf1456c62a470d09492aee8702.js?body=1" for ::1 at 2016-01-12 20:06:30 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:06:30 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:06:30 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:13:29 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (89.1ms)
+Completed 200 OK in 435ms (Views: 394.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:13:32 -0500
+
+
+Started GET "/assets/script.self-c35068eef3e4605ce9d661a0849e678ab509f6888849a19d52c9a5b26d0b8841.js?body=1" for ::1 at 2016-01-12 20:13:32 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:13:32 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:13:32 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:13:32 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:13:32 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:13:32 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:13:32 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:16:00 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (16.1ms)
+Completed 200 OK in 308ms (Views: 283.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:16:03 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:16:03 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:16:03 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:16:03 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:16:03 -0500
+
+
+Started GET "/assets/script.self-c35068eef3e4605ce9d661a0849e678ab509f6888849a19d52c9a5b26d0b8841.js?body=1" for ::1 at 2016-01-12 20:16:03 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:16:03 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:16:03 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:27:01 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (47.3ms)
+Completed 200 OK in 1508ms (Views: 1394.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:27:05 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:27:05 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:27:05 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:27:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:27:05 -0500
+
+
+Started GET "/assets/script.self-06934136040ef0c8213f486d8a183e7dcd9f6f8ad2e841a4b024599bbb0e2f72.js?body=1" for ::1 at 2016-01-12 20:27:06 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:27:06 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:27:06 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:27:31 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 355ms (Views: 300.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:27:37 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 193ms (Views: 169.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:27:53 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 273ms (Views: 231.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:27:56 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:27:56 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:27:56 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:27:56 -0500
+
+
+Started GET "/assets/script.self-06934136040ef0c8213f486d8a183e7dcd9f6f8ad2e841a4b024599bbb0e2f72.js?body=1" for ::1 at 2016-01-12 20:27:56 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:27:56 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:27:56 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:27:56 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:33:11 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (17.8ms)
+Completed 200 OK in 998ms (Views: 957.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:33:16 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:33:16 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:33:16 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:33:16 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:33:16 -0500
+
+
+Started GET "/assets/script.self-0487dd93208adcb9c15544fadbb6b0495eb19626de368dd9aa0b03276e4d6aaa.js?body=1" for ::1 at 2016-01-12 20:33:16 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:33:16 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:33:16 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:37:06 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (25.6ms)
+Completed 200 OK in 1503ms (Views: 1459.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/script.self-4e896c7cc87a6fb23c169c5fa521a768fcf2c2dde0dae7b538d20ffe2b513dd3.js?body=1" for ::1 at 2016-01-12 20:37:14 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:37:15 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:37:15 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:37:15 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:37:15 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:37:15 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:37:15 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:37:15 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:40:56 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 1308ms (Views: 1224.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:41:02 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:41:02 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:41:02 -0500
+
+
+Started GET "/assets/script.self-5f109e0ad0b0851274be6bfa90acf86c9078d33e3fa42d1a4b6b3d6f335fb376.js?body=1" for ::1 at 2016-01-12 20:41:03 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:41:03 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:41:03 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:41:03 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:41:03 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 20:42:24 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 928ms (Views: 885.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 20:42:27 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 20:42:28 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 20:42:28 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 20:42:28 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 20:42:28 -0500
+
+
+Started GET "/assets/script.self-4788edfe339438276f682308da5fa5c69d92f37c847747d66361ccd5934127d1.js?body=1" for ::1 at 2016-01-12 20:42:28 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 20:42:28 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 20:42:28 -0500

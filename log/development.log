@@ -28057,3 +28057,2669 @@ Started GET "/assets/timer.self-8c6d7f2f10d919ebcf679948cb0df25db2cb0b37b032ac60
 
 
 Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:24:07 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:25:55 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 275ms (Views: 259.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:25:56 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:25:56 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:25:56 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:25:56 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:25:56 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:25:56 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:25:56 -0500
+
+
+Started GET "/assets/timer.self-e17a41441d8d33fe00e13d250c240885e14a14fb58dacc80e4083bd5b70fce5b.js?body=1" for ::1 at 2016-01-13 13:25:56 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:29:31 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 275ms (Views: 260.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:29:32 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:29:32 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:29:32 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:29:32 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:29:32 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:29:32 -0500
+
+
+Started GET "/assets/timer.self-be19dc3285a3f959f7c2bf7c1b9b4d1a349167f9e59c47b224f7cfbfc854ec42.js?body=1" for ::1 at 2016-01-13 13:29:32 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:29:32 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:30:25 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 271ms (Views: 265.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:30:26 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:30:26 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:30:26 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:30:26 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:30:26 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:30:26 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:30:26 -0500
+
+
+Started GET "/assets/timer.self-bdf3fd2bc2255117ec3826786d990ab152ce318843282b4d734a0fbc85faef9a.js?body=1" for ::1 at 2016-01-13 13:30:26 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:34:25 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (19.8ms)
+Completed 200 OK in 475ms (Views: 451.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:34:26 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:34:26 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:34:26 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:34:26 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:34:26 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:34:26 -0500
+
+
+Started GET "/assets/timer.self-2159d8816e553ffcff849accde42ffa059b3ee2015d5de9037c24998facd09a5.js?body=1" for ::1 at 2016-01-13 13:34:26 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:34:26 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:34:45 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 182ms (Views: 157.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:34:45 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:34:45 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:34:45 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:34:45 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:34:45 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:34:45 -0500
+
+
+Started GET "/assets/timer.self-2159d8816e553ffcff849accde42ffa059b3ee2015d5de9037c24998facd09a5.js?body=1" for ::1 at 2016-01-13 13:34:45 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:34:45 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:35:20 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 292ms (Views: 275.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:35:20 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:35:20 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:35:20 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:35:20 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:35:20 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:35:20 -0500
+
+
+Started GET "/assets/timer.self-e17a41441d8d33fe00e13d250c240885e14a14fb58dacc80e4083bd5b70fce5b.js?body=1" for ::1 at 2016-01-13 13:35:20 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:35:20 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:35:35 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 151ms (Views: 134.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:35:36 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:35:36 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:35:36 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:35:36 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:35:36 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:35:36 -0500
+
+
+Started GET "/assets/timer.self-e17a41441d8d33fe00e13d250c240885e14a14fb58dacc80e4083bd5b70fce5b.js?body=1" for ::1 at 2016-01-13 13:35:36 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:35:36 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:35:49 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 28ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:35:49 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:35:49 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:35:49 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:35:49 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:35:49 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:35:49 -0500
+
+
+Started GET "/assets/timer.self-e17a41441d8d33fe00e13d250c240885e14a14fb58dacc80e4083bd5b70fce5b.js?body=1" for ::1 at 2016-01-13 13:35:49 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:35:49 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:43:42 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 438ms (Views: 421.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:43:43 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:43:43 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:43:43 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:43:43 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:43:43 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:43:43 -0500
+
+
+Started GET "/assets/timer.self-04d58874b35e1077bd5d14de1579480a1984f4d89c42e58e1c9b0229c8ec6606.js?body=1" for ::1 at 2016-01-13 13:43:43 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:43:43 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:45:42 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 414ms (Views: 394.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:45:42 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:45:42 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:45:42 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:45:43 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:45:43 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:45:43 -0500
+
+
+Started GET "/assets/timer.self-6a9b753baabcc1fcdc7b50d2afe948e98e67810d5a7bc81a8d1bcf5c68ce7695.js?body=1" for ::1 at 2016-01-13 13:45:43 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:45:43 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:48:15 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 306ms (Views: 295.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:48:15 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:48:15 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:48:15 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:48:15 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:48:15 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:48:15 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:48:15 -0500
+
+
+Started GET "/assets/timer.self-8bac8217536b2a82d8a20f9ccfa8ca8fda7d691633611371d20c86714ecf97e1.js?body=1" for ::1 at 2016-01-13 13:48:15 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:49:37 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 343ms (Views: 329.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:49:38 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:49:38 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:49:38 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:49:38 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:49:38 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:49:38 -0500
+
+
+Started GET "/assets/timer.self-67e68555dcf09791ad904111956a3d8cd7f2247330bf6393598440307cdc9b2e.js?body=1" for ::1 at 2016-01-13 13:49:38 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:49:38 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:51:28 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 322ms (Views: 302.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:51:29 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:51:29 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:51:29 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:51:29 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:51:29 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:51:29 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:51:29 -0500
+
+
+Started GET "/assets/timer.self-66d737a1b348f264bdec4e705d6cfe7591ae9e9dca3ff16a502ae5d57c9e3f99.js?body=1" for ::1 at 2016-01-13 13:51:29 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 13:59:40 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 345ms (Views: 327.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 13:59:41 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 13:59:41 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 13:59:41 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 13:59:41 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 13:59:41 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 13:59:41 -0500
+
+
+Started GET "/assets/timer.self-02edc85a6fcd4968ac51191b81c8a217f82d0a006ac54775f3f89211b1567e56.js?body=1" for ::1 at 2016-01-13 13:59:41 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 13:59:41 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:00:23 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 146ms (Views: 134.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:00:24 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:00:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:00:24 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:00:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:00:24 -0500
+
+
+Started GET "/assets/timer.self-02edc85a6fcd4968ac51191b81c8a217f82d0a006ac54775f3f89211b1567e56.js?body=1" for ::1 at 2016-01-13 14:00:24 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:00:24 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:00:24 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:00:28 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 98ms (Views: 94.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:00:28 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:00:28 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:00:28 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:00:28 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:00:29 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:00:29 -0500
+
+
+Started GET "/assets/timer.self-02edc85a6fcd4968ac51191b81c8a217f82d0a006ac54775f3f89211b1567e56.js?body=1" for ::1 at 2016-01-13 14:00:29 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:00:29 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:00:34 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 52ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:00:34 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:00:34 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:00:34 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:00:34 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:00:34 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:00:34 -0500
+
+
+Started GET "/assets/timer.self-02edc85a6fcd4968ac51191b81c8a217f82d0a006ac54775f3f89211b1567e56.js?body=1" for ::1 at 2016-01-13 14:00:34 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:00:34 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:04:59 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 358ms (Views: 344.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:05:00 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:05:00 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:05:00 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:05:00 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:05:00 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:05:00 -0500
+
+
+Started GET "/assets/timer.self-8ad26c67f3a352a1f5d55ea1328f9b88cc41ba3ccb3d27c926a3e73a0633e16d.js?body=1" for ::1 at 2016-01-13 14:05:00 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:05:00 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:05:30 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 104ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:05:31 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:05:31 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:05:31 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:05:31 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:05:31 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:05:31 -0500
+
+
+Started GET "/assets/timer.self-8ad26c67f3a352a1f5d55ea1328f9b88cc41ba3ccb3d27c926a3e73a0633e16d.js?body=1" for ::1 at 2016-01-13 14:05:31 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:05:31 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:06:04 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (32.3ms)
+Completed 200 OK in 421ms (Views: 407.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:06:05 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:06:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:06:05 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:06:05 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:06:05 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:06:05 -0500
+
+
+Started GET "/assets/timer.self-5cb939ca710667a685637f747fa5a6ca385487df677046d47e5b23705c4418af.js?body=1" for ::1 at 2016-01-13 14:06:05 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:06:05 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:06:14 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 45ms (Views: 42.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:06:14 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:06:14 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:06:14 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:06:14 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:06:14 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:06:14 -0500
+
+
+Started GET "/assets/timer.self-5cb939ca710667a685637f747fa5a6ca385487df677046d47e5b23705c4418af.js?body=1" for ::1 at 2016-01-13 14:06:14 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:06:14 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:07:08 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 122ms (Views: 101.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:07:08 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:07:08 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:07:08 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:07:08 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:07:09 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:07:09 -0500
+
+
+Started GET "/assets/timer.self-5cb939ca710667a685637f747fa5a6ca385487df677046d47e5b23705c4418af.js?body=1" for ::1 at 2016-01-13 14:07:09 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:07:09 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:08:40 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 502ms (Views: 467.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:08:41 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:08:41 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:08:41 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:08:41 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:08:41 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:08:41 -0500
+
+
+Started GET "/assets/timer.self-92a4269d9260ded55f9b0dff8527efd54e32ca83be78bac096d510e28bb0cb5a.js?body=1" for ::1 at 2016-01-13 14:08:41 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:08:41 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:13:41 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 297ms (Views: 285.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:13:42 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:13:42 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:13:42 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:13:42 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:13:42 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:13:42 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:13:43 -0500
+
+
+Started GET "/assets/timer.self-e9d35c6ae09eaa448c0800f0d7d231cd50c308880730e19f435304f23371ee0a.js?body=1" for ::1 at 2016-01-13 14:13:43 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:14:15 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 323ms (Views: 309.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:14:16 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:14:16 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:14:16 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:14:16 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:14:16 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:14:16 -0500
+
+
+Started GET "/assets/timer.self-7ffd5a19389e7efc82e9843dc816f7334fb68f5c60c88ef0ee11bebc3889b023.js?body=1" for ::1 at 2016-01-13 14:14:16 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:14:16 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:14:47 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 515ms (Views: 497.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:14:48 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:14:48 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:14:48 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:14:48 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:14:48 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:14:48 -0500
+
+
+Started GET "/assets/timer.self-9d19851d8185e585bbafa50e6f0b74aaf8f06186793bad4c4f90241ddf9e8290.js?body=1" for ::1 at 2016-01-13 14:14:48 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:14:48 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:15:34 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 110ms (Views: 94.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:15:35 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:15:35 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:15:35 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:15:35 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:15:35 -0500
+
+
+Started GET "/assets/timer.self-5cb939ca710667a685637f747fa5a6ca385487df677046d47e5b23705c4418af.js?body=1" for ::1 at 2016-01-13 14:15:35 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:15:35 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:15:35 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:16:23 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (9.6ms)
+Completed 200 OK in 177ms (Views: 160.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:16:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:16:24 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:16:24 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:16:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:16:24 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:16:24 -0500
+
+
+Started GET "/assets/timer.self-5cb939ca710667a685637f747fa5a6ca385487df677046d47e5b23705c4418af.js?body=1" for ::1 at 2016-01-13 14:16:24 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:16:24 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:17:04 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 94ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:17:05 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:17:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:17:05 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:17:05 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:17:05 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:17:05 -0500
+
+
+Started GET "/assets/timer.self-5cb939ca710667a685637f747fa5a6ca385487df677046d47e5b23705c4418af.js?body=1" for ::1 at 2016-01-13 14:17:05 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:17:05 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:17:23 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 121ms (Views: 110.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:17:24 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:17:24 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:17:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:17:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:17:24 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:17:24 -0500
+
+
+Started GET "/assets/timer.self-5cb939ca710667a685637f747fa5a6ca385487df677046d47e5b23705c4418af.js?body=1" for ::1 at 2016-01-13 14:17:24 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:17:24 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:18:08 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 296ms (Views: 286.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:18:09 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:18:09 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:18:09 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:18:09 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:18:09 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:18:09 -0500
+
+
+Started GET "/assets/timer.self-c3e31c1e7bd1c5c74ce6f8e69e93c2b48bfb23b75a9bf3ec87efca4e7a360ab1.js?body=1" for ::1 at 2016-01-13 14:18:09 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:18:09 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:18:17 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 87ms (Views: 75.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:18:17 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:18:17 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:18:17 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:18:17 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:18:17 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:18:17 -0500
+
+
+Started GET "/assets/timer.self-c3e31c1e7bd1c5c74ce6f8e69e93c2b48bfb23b75a9bf3ec87efca4e7a360ab1.js?body=1" for ::1 at 2016-01-13 14:18:17 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:18:17 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:18:24 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 29ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:18:24 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:18:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:18:24 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:18:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:18:24 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:18:24 -0500
+
+
+Started GET "/assets/timer.self-c3e31c1e7bd1c5c74ce6f8e69e93c2b48bfb23b75a9bf3ec87efca4e7a360ab1.js?body=1" for ::1 at 2016-01-13 14:18:24 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:18:25 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:18:48 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 94ms (Views: 84.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:18:49 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:18:49 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:18:49 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:18:49 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:18:49 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:18:49 -0500
+
+
+Started GET "/assets/timer.self-c3e31c1e7bd1c5c74ce6f8e69e93c2b48bfb23b75a9bf3ec87efca4e7a360ab1.js?body=1" for ::1 at 2016-01-13 14:18:49 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:18:49 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:19:03 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 30ms (Views: 28.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:19:03 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:19:03 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:19:03 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:19:03 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:19:03 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:19:03 -0500
+
+
+Started GET "/assets/timer.self-c3e31c1e7bd1c5c74ce6f8e69e93c2b48bfb23b75a9bf3ec87efca4e7a360ab1.js?body=1" for ::1 at 2016-01-13 14:19:03 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:19:03 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:21:40 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 295ms (Views: 280.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:21:41 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:21:41 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:21:41 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:21:41 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:21:41 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:21:41 -0500
+
+
+Started GET "/assets/timer.self-733621fbd043195696f6fec86d879bcf5cb9dd5569d2baf5ddafee8c7e10e4fd.js?body=1" for ::1 at 2016-01-13 14:21:41 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:21:41 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:22:13 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 101ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:22:13 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:22:13 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:22:13 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:22:13 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:22:13 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:22:13 -0500
+
+
+Started GET "/assets/timer.self-733621fbd043195696f6fec86d879bcf5cb9dd5569d2baf5ddafee8c7e10e4fd.js?body=1" for ::1 at 2016-01-13 14:22:13 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:22:13 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:22:50 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 242ms (Views: 226.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:22:51 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:22:51 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:22:51 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:22:51 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:22:51 -0500
+
+
+Started GET "/assets/timer.self-c3e31c1e7bd1c5c74ce6f8e69e93c2b48bfb23b75a9bf3ec87efca4e7a360ab1.js?body=1" for ::1 at 2016-01-13 14:22:51 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:22:51 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:22:51 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:23:00 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 87ms (Views: 74.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:23:01 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:23:01 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:23:01 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:23:01 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:23:01 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:23:01 -0500
+
+
+Started GET "/assets/timer.self-c3e31c1e7bd1c5c74ce6f8e69e93c2b48bfb23b75a9bf3ec87efca4e7a360ab1.js?body=1" for ::1 at 2016-01-13 14:23:01 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:23:01 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:23:27 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 322ms (Views: 311.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:23:28 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:23:28 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:23:28 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:23:28 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:23:28 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:23:28 -0500
+
+
+Started GET "/assets/timer.self-8f1c0dad3c506b619bea2526863e7df705d2ec6b4bd0232d877bdfb4481c0603.js?body=1" for ::1 at 2016-01-13 14:23:28 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:23:28 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:23:34 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 118ms (Views: 101.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:23:35 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:23:35 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:23:35 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:23:35 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:23:35 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:23:35 -0500
+
+
+Started GET "/assets/timer.self-8f1c0dad3c506b619bea2526863e7df705d2ec6b4bd0232d877bdfb4481c0603.js?body=1" for ::1 at 2016-01-13 14:23:35 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:23:35 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:25:33 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 389ms (Views: 376.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:25:34 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:25:34 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:25:34 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:25:34 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:25:34 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:25:34 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:25:34 -0500
+
+
+Started GET "/assets/timer.self-6b7cf5734c3fc361e9e135cb53d63dcec3849725b99ea16caf6a7e0585985d1a.js?body=1" for ::1 at 2016-01-13 14:25:34 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:25:53 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 290ms (Views: 270.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:25:53 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:25:53 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:25:53 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:25:54 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:25:54 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:25:54 -0500
+
+
+Started GET "/assets/timer.self-777db6ce161f8bd245399e0b899703f4110cc4b14f615004903023a663ce44e1.js?body=1" for ::1 at 2016-01-13 14:25:54 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:25:54 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:26:02 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 27ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:26:02 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:26:02 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:26:02 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:26:02 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:26:02 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:26:02 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:26:02 -0500
+
+
+Started GET "/assets/timer.self-777db6ce161f8bd245399e0b899703f4110cc4b14f615004903023a663ce44e1.js?body=1" for ::1 at 2016-01-13 14:26:02 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:27:05 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 116ms (Views: 106.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:27:06 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:27:06 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:27:06 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:27:06 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:27:06 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:27:06 -0500
+
+
+Started GET "/assets/timer.self-777db6ce161f8bd245399e0b899703f4110cc4b14f615004903023a663ce44e1.js?body=1" for ::1 at 2016-01-13 14:27:06 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:27:06 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:30:25 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 289ms (Views: 272.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:30:26 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:30:26 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:30:26 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:30:26 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:30:26 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:30:26 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:30:26 -0500
+
+
+Started GET "/assets/timer.self-ad0313462846c3aafb9695f9afc18027b0ccbe55ff10bf72d9c568d664584a30.js?body=1" for ::1 at 2016-01-13 14:30:26 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:30:44 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 290ms (Views: 272.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:30:44 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:30:44 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:30:44 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:30:44 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:30:44 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:30:44 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:30:44 -0500
+
+
+Started GET "/assets/timer.self-da4c76ffa44e8b17d57aafebf68363dd397c0380a9f7d7182adcabd15dc58f98.js?body=1" for ::1 at 2016-01-13 14:30:44 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:31:13 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 77ms (Views: 68.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:31:13 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:31:13 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:31:13 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:31:13 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:31:13 -0500
+
+
+Started GET "/assets/script.self-59e14530a5e260bb939332e44b984ce5ab12f086482af8f519b3b3bd8fba0985.js?body=1" for ::1 at 2016-01-13 14:31:13 -0500
+
+
+Started GET "/assets/timer.self-da4c76ffa44e8b17d57aafebf68363dd397c0380a9f7d7182adcabd15dc58f98.js?body=1" for ::1 at 2016-01-13 14:31:13 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:31:14 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:32:28 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 361ms (Views: 350.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:32:29 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:32:29 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:32:29 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:32:29 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:32:29 -0500
+
+
+Started GET "/assets/script.self-6e0973d856f1e3e6707a9782f3687bae8acd2cf388d91694959d97ffb15e0fc5.js?body=1" for ::1 at 2016-01-13 14:32:29 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:32:29 -0500
+
+
+Started GET "/assets/timer.self-7ae46dd0974ac69f121ac3cf131b5cfea849818227610aea49a389a9053ed2ff.js?body=1" for ::1 at 2016-01-13 14:32:29 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:32:46 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 290ms (Views: 280.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:32:47 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:32:47 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:32:47 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:32:47 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:32:47 -0500
+
+
+Started GET "/assets/script.self-6e0973d856f1e3e6707a9782f3687bae8acd2cf388d91694959d97ffb15e0fc5.js?body=1" for ::1 at 2016-01-13 14:32:47 -0500
+
+
+Started GET "/assets/timer.self-da4c76ffa44e8b17d57aafebf68363dd397c0380a9f7d7182adcabd15dc58f98.js?body=1" for ::1 at 2016-01-13 14:32:47 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:32:47 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:33:31 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 325ms (Views: 310.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:33:32 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:33:32 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:33:32 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:33:32 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:33:32 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 14:33:32 -0500
+
+
+Started GET "/assets/timer.self-da4c76ffa44e8b17d57aafebf68363dd397c0380a9f7d7182adcabd15dc58f98.js?body=1" for ::1 at 2016-01-13 14:33:32 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:33:32 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:41:14 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 357ms (Views: 323.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:41:15 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:41:15 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:41:15 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:41:15 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:41:15 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 14:41:15 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:41:15 -0500
+
+
+Started GET "/assets/timer.self-6891939dd627c21c7db9ab2d5e7ca3a9a7509945b4ddfccdf8cc6318ee18dfcf.js?body=1" for ::1 at 2016-01-13 14:41:15 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:41:24 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 44ms (Views: 40.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:41:24 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:41:24 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 14:41:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:41:24 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:41:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:41:24 -0500
+
+
+Started GET "/assets/timer.self-6891939dd627c21c7db9ab2d5e7ca3a9a7509945b4ddfccdf8cc6318ee18dfcf.js?body=1" for ::1 at 2016-01-13 14:41:24 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:41:24 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:53:13 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 436ms (Views: 422.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:53:14 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:53:14 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:53:14 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:53:14 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:53:14 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 14:53:14 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:53:14 -0500
+
+
+Started GET "/assets/timer.self-af4d788ced3be6685b595b250852b6405cae12c3ff721ea458f8a932723707b8.js?body=1" for ::1 at 2016-01-13 14:53:14 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:56:52 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 366ms (Views: 350.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:56:52 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:56:53 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:56:53 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 14:56:53 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:56:53 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:56:53 -0500
+
+
+Started GET "/assets/timer.self-7b0aec2569cd829f621ff5e46736f17e5110a9fb925e6072ac1c3a50768bef52.js?body=1" for ::1 at 2016-01-13 14:56:53 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:56:53 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:57:21 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 319ms (Views: 307.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:57:21 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:57:21 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 14:57:21 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:57:21 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:57:21 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:57:21 -0500
+
+
+Started GET "/assets/timer.self-4a6e0d5ef1b24bbeacf2fd509eebdaf7529e1c9578648728503e7132b20f7bbb.js?body=1" for ::1 at 2016-01-13 14:57:21 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:57:21 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:59:16 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 461ms (Views: 446.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:59:17 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:59:17 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:59:17 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:59:17 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:59:17 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 14:59:17 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:59:17 -0500
+
+
+Started GET "/assets/timer.self-fd1049268a7906fe090760ce210725e6711955b169803ad55757c4b4f93300f7.js?body=1" for ::1 at 2016-01-13 14:59:17 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 14:59:25 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 34ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 14:59:25 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 14:59:25 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 14:59:25 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 14:59:25 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 14:59:25 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 14:59:25 -0500
+
+
+Started GET "/assets/timer.self-fd1049268a7906fe090760ce210725e6711955b169803ad55757c4b4f93300f7.js?body=1" for ::1 at 2016-01-13 14:59:25 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 14:59:25 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:05:23 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 290ms (Views: 267.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:05:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:05:24 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:05:24 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:05:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:05:24 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:05:24 -0500
+
+
+Started GET "/assets/timer.self-9f2f3fae0ea5062c8ac9862d9300033d119c3bb42d17c1e1527d8bcc7a41bb80.js?body=1" for ::1 at 2016-01-13 15:05:24 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:05:24 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:05:52 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 408ms (Views: 389.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:05:53 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:05:53 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:05:53 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:05:53 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:05:53 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:05:53 -0500
+
+
+Started GET "/assets/timer.self-375770407b0461ab89f96e06bf110a7280ea39c860e62454a26ef9a26a26872e.js?body=1" for ::1 at 2016-01-13 15:05:53 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:05:53 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:06:54 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 316ms (Views: 303.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:06:55 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:06:55 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:06:55 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:06:55 -0500
+
+
+Started GET "/assets/timer.self-88a43d1e65b018fcd7883293356867d31841b2f7d021b437cfa79840d42e3523.js?body=1" for ::1 at 2016-01-13 15:06:55 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:06:55 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:06:55 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:06:55 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:07:55 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 388ms (Views: 374.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:07:56 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:07:56 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:07:56 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:07:56 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:07:56 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:07:56 -0500
+
+
+Started GET "/assets/timer.self-f37aa15360523b993282bbce69bbed2b6b167717843847b5514c7a157e9ee65c.js?body=1" for ::1 at 2016-01-13 15:07:56 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:07:56 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:11:59 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 647ms (Views: 627.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:12:00 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:12:00 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:12:00 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:12:00 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:12:00 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:12:00 -0500
+
+
+Started GET "/assets/timer.self-7e73ea9f2861552f7a6eff0c9a539c8c7ccacf9819cc62ecbff002079792f81c.js?body=1" for ::1 at 2016-01-13 15:12:00 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:12:00 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:13:13 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 339ms (Views: 322.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:13:14 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:13:14 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:13:14 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:13:14 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:13:14 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:13:14 -0500
+
+
+Started GET "/assets/timer.self-d23e0a8fe4a06793ba682dbc07aace1c8dce9e1f90c8a716d190746d0a2d990e.js?body=1" for ::1 at 2016-01-13 15:13:14 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:13:14 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:13:40 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 372ms (Views: 353.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:13:40 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:13:40 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:13:40 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:13:40 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:13:41 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:13:41 -0500
+
+
+Started GET "/assets/timer.self-4de0ffcc0e8be0ed158d7d868ea89e2665bb6841d1dccde0b56d6f17c0376757.js?body=1" for ::1 at 2016-01-13 15:13:41 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:13:41 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:14:46 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 425ms (Views: 415.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:14:47 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:14:47 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:14:47 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:14:47 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:14:47 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:14:47 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:14:47 -0500
+
+
+Started GET "/assets/timer.self-d64870310e3f03d1e9c1aa11a873b8c7f5fc4c2e92dc5658a786eb01ec1d7790.js?body=1" for ::1 at 2016-01-13 15:14:47 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:15:37 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 328ms (Views: 311.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:15:37 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:15:37 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:15:38 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:15:38 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:15:38 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:15:38 -0500
+
+
+Started GET "/assets/timer.self-270d83fb932f61e32fa753e2cbb9791474b2f7472c004f0eafad9fbe115028e2.js?body=1" for ::1 at 2016-01-13 15:15:38 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:15:38 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:16:34 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 309ms (Views: 297.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:16:34 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:16:34 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:16:34 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:16:34 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:16:34 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:16:35 -0500
+
+
+Started GET "/assets/timer.self-7e6c293a0c2a5e739ddec77e7e5e70a8f7a91e1ba6445129354f09566a4e8d98.js?body=1" for ::1 at 2016-01-13 15:16:35 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:16:35 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:16:55 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 241ms (Views: 234.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:16:56 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:16:56 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:16:56 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:16:56 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:16:56 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:16:56 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:16:56 -0500
+
+
+Started GET "/assets/timer.self-b5cf561102882dad302a7a428814f9f560a74affe74d643eebd132747eef1796.js?body=1" for ::1 at 2016-01-13 15:16:56 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:17:28 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 288ms (Views: 271.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:17:28 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:17:28 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:17:28 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:17:28 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:17:28 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:17:28 -0500
+
+
+Started GET "/assets/timer.self-fddda9a504918d861840da36170730111412ff74d7ee99f5239b6b3f6cd5416b.js?body=1" for ::1 at 2016-01-13 15:17:29 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:17:29 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:17:59 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 346ms (Views: 326.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:17:59 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:17:59 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:17:59 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:18:00 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:18:00 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:18:00 -0500
+
+
+Started GET "/assets/timer.self-77fa597b5edf56ac1f08fa7622aff5730dab97cd7eb265a32387e6c80b70384a.js?body=1" for ::1 at 2016-01-13 15:18:00 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:18:00 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:19:09 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (24.5ms)
+Completed 200 OK in 129ms (Views: 110.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:19:09 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:19:09 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:19:09 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:19:09 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:19:09 -0500
+
+
+Started GET "/assets/timer.self-77fa597b5edf56ac1f08fa7622aff5730dab97cd7eb265a32387e6c80b70384a.js?body=1" for ::1 at 2016-01-13 15:19:09 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:19:09 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:19:09 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:19:29 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (16.7ms)
+Completed 200 OK in 134ms (Views: 116.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:19:30 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:19:30 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:19:30 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:19:30 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:19:30 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:19:30 -0500
+
+
+Started GET "/assets/timer.self-77fa597b5edf56ac1f08fa7622aff5730dab97cd7eb265a32387e6c80b70384a.js?body=1" for ::1 at 2016-01-13 15:19:30 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:19:30 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:19:58 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 114ms (Views: 102.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:19:59 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:19:59 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:19:59 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:19:59 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:19:59 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:19:59 -0500
+
+
+Started GET "/assets/timer.self-77fa597b5edf56ac1f08fa7622aff5730dab97cd7eb265a32387e6c80b70384a.js?body=1" for ::1 at 2016-01-13 15:19:59 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:19:59 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:21:09 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 145ms (Views: 130.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:21:10 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:21:10 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:21:10 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:21:10 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:21:10 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:21:10 -0500
+
+
+Started GET "/assets/timer.self-77fa597b5edf56ac1f08fa7622aff5730dab97cd7eb265a32387e6c80b70384a.js?body=1" for ::1 at 2016-01-13 15:21:10 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:21:10 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:23:22 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 299ms (Views: 289.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:23:23 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:23:23 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:23:23 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:23:23 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:23:23 -0500
+
+
+Started GET "/assets/timer.self-2218d005b731a698be559718d80b519629da6c3eed91646b638458f6effeec7b.js?body=1" for ::1 at 2016-01-13 15:23:23 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:23:23 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:23:23 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:23:47 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 83ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:23:48 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:23:48 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:23:48 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:23:48 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:23:48 -0500
+
+
+Started GET "/assets/timer.self-2218d005b731a698be559718d80b519629da6c3eed91646b638458f6effeec7b.js?body=1" for ::1 at 2016-01-13 15:23:48 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:23:48 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:23:48 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:24:05 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 114ms (Views: 99.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:24:05 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:24:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:24:05 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:24:05 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:24:05 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:24:05 -0500
+
+
+Started GET "/assets/timer.self-2218d005b731a698be559718d80b519629da6c3eed91646b638458f6effeec7b.js?body=1" for ::1 at 2016-01-13 15:24:05 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:24:05 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:24:45 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 113ms (Views: 102.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:24:45 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:24:45 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:24:45 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:24:45 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:24:45 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:24:46 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:24:46 -0500
+
+
+Started GET "/assets/timer.self-2218d005b731a698be559718d80b519629da6c3eed91646b638458f6effeec7b.js?body=1" for ::1 at 2016-01-13 15:24:46 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:24:53 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 347ms (Views: 297.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:24:55 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:24:55 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:24:55 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:24:55 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:24:55 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:24:55 -0500
+
+
+Started GET "/assets/timer.self-2218d005b731a698be559718d80b519629da6c3eed91646b638458f6effeec7b.js?body=1" for ::1 at 2016-01-13 15:24:55 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:24:55 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:25:37 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 304ms (Views: 285.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:25:38 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:25:38 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:25:38 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:25:38 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:25:38 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:25:38 -0500
+
+
+Started GET "/assets/timer.self-bd5f27b5c4e73093ae4e59e817eefa3d22e7f1a1a8638e7ad8bb0da5286d40b3.js?body=1" for ::1 at 2016-01-13 15:25:38 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:25:38 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:26:39 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 100ms (Views: 88.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:26:40 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:26:40 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:26:40 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:26:40 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:26:40 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:26:40 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:26:40 -0500
+
+
+Started GET "/assets/timer.self-bd5f27b5c4e73093ae4e59e817eefa3d22e7f1a1a8638e7ad8bb0da5286d40b3.js?body=1" for ::1 at 2016-01-13 15:26:40 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:26:48 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 340ms (Views: 338.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:26:49 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:26:49 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:26:49 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:26:49 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:26:49 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:26:49 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:26:49 -0500
+
+
+Started GET "/assets/timer.self-e50c8e53ea7d0d136b136a11ee9a9c6faed7b92c0d63f396a2d1fd76701c9e13.js?body=1" for ::1 at 2016-01-13 15:26:49 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:27:22 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 292ms (Views: 283.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:27:22 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:27:22 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:27:22 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:27:22 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:27:22 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:27:22 -0500
+
+
+Started GET "/assets/timer.self-eb9b0969670db4df3f7d005bedfc2b9bcdf012e8ea8e2b30873a20b346024f89.js?body=1" for ::1 at 2016-01-13 15:27:23 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:27:23 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:27:42 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 111ms (Views: 94.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:27:43 -0500
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:27:43 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:27:43 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:27:43 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:27:43 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:27:43 -0500
+
+
+Started GET "/assets/timer.self-eb9b0969670db4df3f7d005bedfc2b9bcdf012e8ea8e2b30873a20b346024f89.js?body=1" for ::1 at 2016-01-13 15:27:43 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:27:43 -0500
+
+
+Started GET "/?ingredients=beef" for ::1 at 2016-01-13 15:28:03 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"beef"}
+  Rendered recipes/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 100ms (Views: 97.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1549cce93a0695fb528d9bf1315c16126efdd04cfe9546b1cfd75945b8315a70.css?body=1" for ::1 at 2016-01-13 15:28:03 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 15:28:03 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 15:28:03 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 15:28:03 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 15:28:03 -0500
+
+
+Started GET "/assets/script.self-69e85a62ec4f58a4268c68a0e0230fc431e94299e155269338dc60ad875500bf.js?body=1" for ::1 at 2016-01-13 15:28:03 -0500
+
+
+Started GET "/assets/timer.self-eb9b0969670db4df3f7d005bedfc2b9bcdf012e8ea8e2b30873a20b346024f89.js?body=1" for ::1 at 2016-01-13 15:28:03 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 15:28:04 -0500

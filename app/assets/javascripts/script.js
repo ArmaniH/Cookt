@@ -11,12 +11,12 @@ $(document).ready(function(){
     type: "get",
     dataType: "jsonp"
   }).done(function(response){
-        event.preventDefault();
       console.log(response['hits'])
       var hits = response['hits']
       for (var i = 0; i < hits.length; i++) {
         var hit = hits[i]
         addToRecipeList(hit.recipe)
+        event.preventDefault();
       }
       // alert(response['hits'])
     }).fail(function(){

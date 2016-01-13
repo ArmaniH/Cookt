@@ -1,42 +1,29 @@
 $(document).ready(function(){
+  $('.click').click(function () {
+      var rawAmount = $('#request').val();
+      var cleanAmount = rawAmount.split(':');
+      var totalAmount = parseInt(cleanAmount[0] | 0) * 60 + parseInt(cleanAmount[1] | 0);
+       $('#request').val(" ");
 
-  $('button').one('click', function(event){
-    var hours = $(".js-hours").val();
-    var minutes = $(".js-minutes").val();
-    var seconds = $(".js-seconds").val();
-    var $timeLeft = $(".js-time-left");
+      var loop, theFunction = function () {
 
-    function updateTimeLeft(hours, minutes, seconds, event){
-      $timeLeft.html(hours + " : " + minutes + " : " + seconds);
-    }
+          totalAmount--;
 
-    var timer = setInterval(function(){
-      if(hours === 0 && minutes === 0 && seconds === 0){
-        alert("done");
-        return clearInterval(timer);
-        $(this).one()
-      }
-      if(seconds === 0){
-        seconds = 60;
-        minutes = minutes - 1;
-        $(this).one()
+          if (totalAmount == 0) {
+
+              clearInterval(loop);
+          }
+          var minutes = parseInt(totalAmount/60);
+          var seconds = parseInt(totalAmount%60);
+
+          if(seconds < 10)
+              seconds = "0"+seconds;
+          $('.clock').text(minutes + ":" + seconds);
       };
-      if(minutes === 0){
-        mintues = 59;
-        hours = hours - 1;
-        $(this).one()
-      };
-      if(hours === 0){
-        // hours = 0;
-        mintues = 0;
-        $(this).one()
-      };
-      seconds = seconds - 1;
-      updateTimeLeft(hours,minutes,seconds);
-      $(this).off('click')
-    },1000)
-        event.preventDefault
-  });
+
+      var loop  = setInterval(theFunction, 1000);
+
+  })
 
   $('#addTimer').click(function(event, i){
     $('.timerContainer:last').clone().after().appendTo('#timerDiv')

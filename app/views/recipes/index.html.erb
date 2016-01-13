@@ -3,12 +3,12 @@
   <button id="addTimer">Add Timer</button>
   <button id="removeTimer">Remove Timer</button>
     <div class="timerContainer">
-      Hours <input type='text' value='' class='js-hours'/>
-      Minutes <input type='text' value='' class='js-minutes'/>
-      Seconds  <input type='text' value='' class='js-seconds'/>
-      <button id='startTimer'>Start</button>
-      <p>Time Left: <div class='js-time-left'></div></p>
-    </div>
+      <h1>Enter minutes you want to work </h1>
+      <div class="clock">
+        <p>0:00</p>
+      </div>
+      <input id="request" type="text" placeholder="Enter an amount here">
+      <a href="#" class="click">Click here</a>    </div>
 
 
 </div>
@@ -20,15 +20,15 @@
   <input id="recipeSearch" type="submit">
 </form>
 
-<!-- <ul class="recipeRender">
-    <li> -->
-      <iframe id="iframe" width="100%" height="300px" name="iframe_a"></iframe>
-      <p><a id="iframeLink" href="" target="iframe_a"><div class="jsrecipes"></div>
+  <!-- <div id="iframeDiv"> -->
+      <iframe id="iframe" src="" width="100%" height="300px" name="iframe_a"></iframe>
+      <button id="closeIframe">X</button>
+      <p><a id="iframeLink" href="" target="iframe_a">
+        <!-- <button id="breakIframe" onclick="breakout()">^</button> -->
+      </a></p>
+    <!-- </div> -->
 
     <table>
       <div class="jsrecipes"></div>
-    <!-- </a> -->
+
     </table>
-    </a></p>
-    <!-- </li>
-</ul> -->

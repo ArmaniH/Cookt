@@ -33,7 +33,9 @@ console.log(recipe.image);
 var $recipe = $("<div/>", {id:'listedRecipe'+i})
 $recipe.append('<h2>' + recipe.label + '</h2>')
 $recipe.append('<p>' + recipe.source + '</p>')
+$recipe.append('<a href=>' +recipe.url + '</a>')
 $recipe.append('<img src="'+recipe.image+'"/>')
 $('.jsrecipes').append($recipe)
+// $('#recipe_url').append($recipe)
 i++
 }

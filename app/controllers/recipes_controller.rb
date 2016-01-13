@@ -3,14 +3,14 @@ class RecipesController < ApplicationController
     @recipes = Recipe.all
     respond_to do |format|
       format.html { render :index }
-      format.json { render jsonp: @recipes }
+      format.json { render json: @recipes }
     end
   end
 
   def show
     respond_to do |format|
       format.html { render :show }
-      format.json { render jsonp: @recipe }
+      format.json { render json: @recipe }
     end
   end
 

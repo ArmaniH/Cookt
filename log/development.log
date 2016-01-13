@@ -22449,3 +22449,1201 @@ Processing by RecipesController#index as HTML
   Parameters: {"ingredients"=>"apple"}
   Rendered recipes/index.html.erb within layouts/application (0.6ms)
 Completed 200 OK in 395ms (Views: 343.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 16:38:53 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (28.5ms)
+Completed 500 Internal Server Error in 63ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:23: syntax error, unexpected '<'
+  <div class'.freeze;"jsr ;@output_buffer.safe_append='ecipes"></div>
+                                                                ^
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:24: unknown regexp option - a
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:32: unknown regexp options - dv
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:33: syntax error, unexpected '<'
+    </a>
+     ^
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:34: unknown regexp options - tabl
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:34: syntax error, unexpected '\n', expecting keyword_do_LAMBDA or tLAMBEG
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:35: syntax error, unexpected '<'
+    <!-- </li>
+          ^
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:36: unknown regexp option - l
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:36: syntax error, unexpected '\n', expecting keyword_do_LAMBDA or tLAMBEG
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:37: unterminated string meets end of file):
+  app/views/recipes/index.html.erb:23: syntax error, unexpected '<'
+  app/views/recipes/index.html.erb:24: unknown regexp option - a
+  app/views/recipes/index.html.erb:32: unknown regexp options - dv
+  app/views/recipes/index.html.erb:33: syntax error, unexpected '<'
+  app/views/recipes/index.html.erb:34: unknown regexp options - tabl
+  app/views/recipes/index.html.erb:34: syntax error, unexpected '\n', expecting keyword_do_LAMBDA or tLAMBEG
+  app/views/recipes/index.html.erb:35: syntax error, unexpected '<'
+  app/views/recipes/index.html.erb:36: unknown regexp option - l
+  app/views/recipes/index.html.erb:36: syntax error, unexpected '\n', expecting keyword_do_LAMBDA or tLAMBEG
+  app/views/recipes/index.html.erb:37: unterminated string meets end of file
+  app/controllers/recipes_controller.rb:5:in `block (2 levels) in index'
+  app/controllers/recipes_controller.rb:4:in `index'
+
+
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (46.0ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (25.9ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.4ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (158.3ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (62.4ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (141.1ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 16:39:55 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (24.1ms)
+Completed 500 Internal Server Error in 74ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:23: syntax error, unexpected '<'
+  <div class'.freeze;"jsrecipes"></div>
+                                  ^
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:24: unknown regexp option - a
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:25: syntax error, unexpected '<'
+<% end ;@output_buffer.safe_append='
+ ^
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:28: syntax error, unexpected keyword_ensure, expecting keyword_end
+/Users/armanihall/wdi/cookt/app/views/recipes/index.html.erb:30: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/recipes/index.html.erb:23: syntax error, unexpected '<'
+  app/views/recipes/index.html.erb:24: unknown regexp option - a
+  app/views/recipes/index.html.erb:25: syntax error, unexpected '<'
+  app/views/recipes/index.html.erb:28: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/recipes/index.html.erb:30: syntax error, unexpected end-of-input, expecting keyword_end
+  app/controllers/recipes_controller.rb:5:in `block (2 levels) in index'
+  app/controllers/recipes_controller.rb:4:in `index'
+
+
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (45.9ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.7ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.4ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (128.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (65.4ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (155.8ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 16:41:06 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  [1m[36mRecipe Load (58.1ms)[0m  [1mSELECT "recipes".* FROM "recipes"[0m
+  Rendered recipes/index.html.erb within layouts/application (296.8ms)
+Completed 200 OK in 763ms (Views: 612.9ms | ActiveRecord: 108.5ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 16:41:08 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 16:41:08 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 16:41:08 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 16:41:08 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 16:41:08 -0500
+
+
+Started GET "/assets/script.self-9fbfc774ba2c336b7ba9f77b519913eac950bd89db6446edea13e8156f9983ae.js?body=1" for ::1 at 2016-01-12 16:41:08 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 16:41:08 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 16:41:08 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 16:42:16 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  [1m[35mRecipe Load (19.9ms)[0m  SELECT "recipes".* FROM "recipes"
+  Rendered recipes/index.html.erb within layouts/application (75.0ms)
+Completed 200 OK in 568ms (Views: 478.8ms | ActiveRecord: 19.9ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 16:42:19 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 16:42:19 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 16:42:19 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 16:42:19 -0500
+
+
+Started GET "/assets/script.self-9fbfc774ba2c336b7ba9f77b519913eac950bd89db6446edea13e8156f9983ae.js?body=1" for ::1 at 2016-01-12 16:42:19 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 16:42:19 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 16:42:19 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 16:42:19 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 16:46:06 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  [1m[36mRecipe Load (65.6ms)[0m  [1mSELECT "recipes".* FROM "recipes"[0m
+  Rendered recipes/index.html.erb within layouts/application (195.6ms)
+Completed 200 OK in 503ms (Views: 267.2ms | ActiveRecord: 174.5ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 16:46:12 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 16:46:12 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 16:46:12 -0500
+
+
+Started GET "/assets/script.self-9fbfc774ba2c336b7ba9f77b519913eac950bd89db6446edea13e8156f9983ae.js?body=1" for ::1 at 2016-01-12 16:46:12 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 16:46:12 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 16:46:12 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 16:46:12 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 16:46:12 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (2.9ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mRecipe Load (6.6ms)[0m  SELECT "recipes".* FROM "recipes"
+  [1m[36mActiveRecord::SchemaMigration Load (1.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.3ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (7.9ms)[0m  [1mSELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'recipes'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+[0m
+  [1m[36m (227.3ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (126.2ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (494.6ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (268.7ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (10.2ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (30.1ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (3.6ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.2ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (1.2ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (16.6ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (3.9ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.2ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.7ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.4ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mRecipe Load (0.6ms)[0m  SELECT "recipes".* FROM "recipes"
+  [1m[36m (144.0ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (132.5ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (442.3ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (244.0ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (3.8ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (35.4ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.7ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (3.5ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.6ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (14.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (74.8ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (31.8ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (18.9ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.7ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (6.4ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (1.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mRecipe Load (0.7ms)[0m  SELECT "recipes".* FROM "recipes"
+  [1m[36m (200.8ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (126.1ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (423.6ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (243.5ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (7.0ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (21.9ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.5ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (20.0ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.8ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.3ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.6ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (136.6ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (136.8ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (448.1ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (255.7ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (1.2ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (17.9ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.5ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.1ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.7ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (11.3ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.5ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.6ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (159.6ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (150.9ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (438.1ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (254.8ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (7.6ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (4.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.6ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.8ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (8.7ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (6.2ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.5ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.6ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.9ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (142.2ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (126.4ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (439.2ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (260.5ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (1.5ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (21.3ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (3.7ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.9ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (1.0ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (13.3ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (3.3ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.7ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.6ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.8ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (131.5ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (133.7ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (458.7ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (248.6ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (8.5ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (3.1ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.0ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.6ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.3ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (14.3ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (4.3ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.5ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (118.2ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (127.5ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (483.4ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (267.2ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (20.9ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.4ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (37.0ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (8.5ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.9ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.4ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (129.5ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (128.3ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (424.5ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (242.2ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (2.1ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (20.6ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (3.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.1ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.6ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (4.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (15.4ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (4.3ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.4ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.8ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.9ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (145.4ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (121.5ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (411.0ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (236.3ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (15.0ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.7ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.6ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (15.5ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (4.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.5ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (125.6ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (124.6ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (448.4ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (245.8ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (15.4ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (4.8ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.5ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (19.5ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (7.8ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.6ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.4ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (123.9ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (126.7ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (450.0ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (261.1ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (54.9ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (4.9ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (21.7ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.7ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.9ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (7.7ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (4.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.8ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (119.7ms)[0m  [1mDROP DATABASE IF EXISTS "cookt_development"[0m
+  [1m[35m (127.2ms)[0m  DROP DATABASE IF EXISTS "cookt_test"
+  [1m[36m (434.7ms)[0m  [1mCREATE DATABASE "cookt_development" ENCODING = 'utf8'[0m
+  [1m[35m (241.4ms)[0m  CREATE DATABASE "cookt_test" ENCODING = 'utf8'
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (19.9ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.8ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.8ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mSQL (0.6ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (10.4ms)[0m  CREATE TABLE "recipes" ("id" serial primary key, "title" character varying(100) NOT NULL, "price" float, "subject_id" integer, "description" text, "created_at" timestamp) 
+  [1m[36m (2.4ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (1.8ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36m (0.5ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160109214251')
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 17:31:49 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (1.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 483ms (Views: 458.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 17:31:53 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 17:31:53 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 17:31:53 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 17:31:53 -0500
+
+
+Started GET "/assets/script.self-9fbfc774ba2c336b7ba9f77b519913eac950bd89db6446edea13e8156f9983ae.js?body=1" for ::1 at 2016-01-12 17:31:53 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 17:31:53 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 17:31:54 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 17:31:54 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 17:34:40 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  [1m[35mRecipe Load (19.2ms)[0m  SELECT "recipes".* FROM "recipes"
+  Rendered recipes/index.html.erb within layouts/application (426.8ms)
+Completed 500 Internal Server Error in 463ms (ActiveRecord: 40.3ms)
+
+ActionView::Template::Error (undefined local variable or method `recipes' for #<#<Class:0x007f80aeba6b08>:0x007f80abd9c028>):
+    20: <!-- <ul class="recipeRender">
+    21:     <li> -->
+    22:     <table>
+    23:       <a href="<% recipes.show %>">
+    24:       <div class="jsrecipes"></div>
+    25:     </a>
+    26:     </table>
+  app/views/recipes/index.html.erb:23:in `_app_views_recipes_index_html_erb___3996399940726755725_70095307730240'
+  app/controllers/recipes_controller.rb:5:in `block (2 levels) in index'
+  app/controllers/recipes_controller.rb:4:in `index'
+
+
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.7ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (74.2ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (65.2ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (177.3ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:02:52 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 471ms (Views: 409.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:02:56 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:02:56 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:02:56 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:02:57 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:02:57 -0500
+
+
+Started GET "/assets/script.self-e4f0528a2eb9d999ee1880e9dd0936b341f038b8a4cc8f277e8eb6e7b6a9a77b.js?body=1" for ::1 at 2016-01-12 18:02:57 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:02:57 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:02:57 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:05:27 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 875ms (Views: 814.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:05:32 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:05:32 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:05:32 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:05:32 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:05:32 -0500
+
+
+Started GET "/assets/script.self-7340bf3df84b772a32022cc01f8cf51e21e44c5e5b05a4bb9e4934e538a96d5b.js?body=1" for ::1 at 2016-01-12 18:05:32 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:05:32 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:05:33 -0500
+
+
+Started GET "/recipe.url" for ::1 at 2016-01-12 18:06:09 -0500
+
+ActionController::RoutingError (No route matches [GET] "/recipe.url"):
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/armanihall/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/armanihall/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/armanihall/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (16.9ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (15.0ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (98.9ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (19.3ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (445.9ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (65.1ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/armanihall/.rvm/gems/ruby-2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (143.3ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:06:17 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 168ms (Views: 151.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:06:20 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:06:20 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:06:20 -0500
+
+
+Started GET "/assets/script.self-7340bf3df84b772a32022cc01f8cf51e21e44c5e5b05a4bb9e4934e538a96d5b.js?body=1" for ::1 at 2016-01-12 18:06:21 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:06:21 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:06:21 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:06:21 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:06:21 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:09:31 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (25.1ms)
+Completed 200 OK in 612ms (Views: 581.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:09:34 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:09:34 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:09:34 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:09:34 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:09:34 -0500
+
+
+Started GET "/assets/script.self-1fe281eb473b0f6c6105b0a98e0c821613868573d350c424b97f3623cec2f024.js?body=1" for ::1 at 2016-01-12 18:09:34 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:09:34 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:09:34 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:31:47 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (28.6ms)
+Completed 200 OK in 403ms (Views: 289.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:31:50 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:31:50 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:31:50 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:31:51 -0500
+
+
+Started GET "/assets/script.self-1fe281eb473b0f6c6105b0a98e0c821613868573d350c424b97f3623cec2f024.js?body=1" for ::1 at 2016-01-12 18:31:51 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:31:51 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:31:51 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:31:51 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:33:23 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 851ms (Views: 823.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:33:25 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:33:25 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:33:25 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:33:25 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:33:25 -0500
+
+
+Started GET "/assets/script.self-66357ad6f1cda0856857655b799203da968125582b8382ecbcbf899a9725f636.js?body=1" for ::1 at 2016-01-12 18:33:25 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:33:25 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:33:25 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:34:39 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 901ms (Views: 880.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:34:41 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:34:41 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:34:41 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:34:41 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:34:41 -0500
+
+
+Started GET "/assets/script.self-b364971827e57231d085af2f9743eaa0530ba41fdec023982ed11ae9075f9d1f.js?body=1" for ::1 at 2016-01-12 18:34:42 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:34:42 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:34:42 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:35:43 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 523ms (Views: 504.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:35:45 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:35:45 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:35:45 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:35:45 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:35:45 -0500
+
+
+Started GET "/assets/script.self-42cf6e719e74079bc083d33aa0d6d66a6f0d4293a3297d41b4d1977d8804f665.js?body=1" for ::1 at 2016-01-12 18:35:45 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:35:45 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:35:45 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:36:59 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 565ms (Views: 545.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:37:01 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:37:01 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:37:01 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:37:01 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:37:01 -0500
+
+
+Started GET "/assets/script.self-4c7748f60560d9ceef5186c7787078564c656a3bb79ce7a13460817d12cb3260.js?body=1" for ::1 at 2016-01-12 18:37:01 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:37:01 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:37:01 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:37:20 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 137ms (Views: 114.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:38:04 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 367ms (Views: 347.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:38:05 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:38:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:38:05 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:38:05 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:38:05 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:38:05 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:38:05 -0500
+
+
+Started GET "/assets/script.self-093b0b84aad62aca93f193ebad99751c0c1848f5e34d488061212cef1c7cf4be.js?body=1" for ::1 at 2016-01-12 18:38:05 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:58:26 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 959ms (Views: 882.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:58:29 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:58:29 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:58:30 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:58:30 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:58:31 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:58:31 -0500
+
+
+Started GET "/assets/script.self-4e1f64c11df0fd245ed27add006c5f317175add56a6acb7d8761229aab1c1fb6.js?body=1" for ::1 at 2016-01-12 18:58:31 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:58:31 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:59:18 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 926ms (Views: 893.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:59:19 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 48ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:59:21 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:59:21 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:59:21 -0500
+
+
+Started GET "/assets/script.self-5178ccb225e2da259afddd3de36a422775b38ac21ca175d5e5c97d9a01d86b44.js?body=1" for ::1 at 2016-01-12 18:59:21 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:59:21 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:59:21 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:59:22 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:59:22 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 18:59:54 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 545ms (Views: 529.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 18:59:55 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 18:59:55 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 18:59:56 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 18:59:56 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 18:59:56 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 18:59:56 -0500
+
+
+Started GET "/assets/script.self-bd94488a6e4ff562a46cf1f00b21b46b6a6e4f57fe800114571d6055cadcdd16.js?body=1" for ::1 at 2016-01-12 18:59:56 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 18:59:56 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:08:23 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 1057ms (Views: 1021.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:08:26 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:08:26 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:08:26 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:08:26 -0500
+
+
+Started GET "/assets/script.self-3095e34a14592aaaed6cdb126fc2f1985f50604a1104b0a8e39dd51d321917d7.js?body=1" for ::1 at 2016-01-12 19:08:26 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:08:26 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:08:26 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:08:26 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:08:52 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 478ms (Views: 446.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:08:54 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:08:54 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:08:54 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:08:54 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:08:54 -0500
+
+
+Started GET "/assets/script.self-eb6bfa180fc557f2760c6f1a0fc1d4261e5a05564c9f914b5e9601e09a777810.js?body=1" for ::1 at 2016-01-12 19:08:54 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:08:54 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:08:54 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:09:42 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 715ms (Views: 674.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:09:44 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:09:44 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:09:44 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:09:44 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:09:44 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:09:44 -0500
+
+
+Started GET "/assets/script.self-b36d91303853956555248f6d4a1b44ae77cb5355d47c1b35baaab082e6eaad35.js?body=1" for ::1 at 2016-01-12 19:09:44 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:09:44 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:11:03 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 628ms (Views: 592.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:11:06 -0500
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:11:06 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:11:06 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:11:06 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:11:06 -0500
+
+
+Started GET "/assets/script.self-58253ae0d1a8d944b60a156c5b6e45577f5425570e2e04132ece5538ed78f02c.js?body=1" for ::1 at 2016-01-12 19:11:06 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:11:07 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:11:07 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:12:19 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1815ms (Views: 1680.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:12:24 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:12:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:12:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:12:24 -0500
+
+
+Started GET "/assets/script.self-81a1f930b4b6f04b5dac9c8470d7f730dcc2bfe4f0a9a9382181896c9513986d.js?body=1" for ::1 at 2016-01-12 19:12:24 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:12:24 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:12:25 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:12:25 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:14:03 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (352.0ms)
+Completed 200 OK in 1469ms (Views: 1299.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:14:07 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:14:08 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:14:08 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:14:08 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:14:08 -0500
+
+
+Started GET "/assets/script.self-ab0f74347b8c8cc4cc6bfb78cc00c245c50e25ddfce61029f8c1bdcc2f0e9c35.js?body=1" for ::1 at 2016-01-12 19:14:08 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:14:08 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:14:08 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:19:12 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 716ms (Views: 654.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:19:15 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:19:15 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:19:15 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:19:16 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:19:16 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:19:16 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:19:16 -0500
+
+
+Started GET "/assets/script.self-803a555eb488838fa3fb519cc0d9d1f4bc477ab5f3997b3fa938d86317799d27.js?body=1" for ::1 at 2016-01-12 19:19:16 -0500
+
+
+Started GET "/?ingredients=apple" for ::1 at 2016-01-12 19:22:00 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"apple"}
+  Rendered recipes/index.html.erb within layouts/application (19.5ms)
+Completed 200 OK in 686ms (Views: 570.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-321693aedd797f3387c5a04ca27b4738b0dd0086cd7c2a26f918b8c316e9a64d.css?body=1" for ::1 at 2016-01-12 19:22:02 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-12 19:22:02 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-12 19:22:02 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-12 19:22:02 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-12 19:22:02 -0500
+
+
+Started GET "/assets/script.self-9a98796c19adc3b7ce4f08cad1ff32e0657613ef3d486d7c8dc7e5c2383d93c0.js?body=1" for ::1 at 2016-01-12 19:22:02 -0500
+
+
+Started GET "/assets/timer.self-9a6af5a3dcfd403fc63c8bb9d3fafc514ba0c41d8e3571724183bebadb4487b4.js?body=1" for ::1 at 2016-01-12 19:22:02 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-12 19:22:03 -0500

@@ -9,5 +9,7 @@
 # production:
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
-edamam_api_key: 6b6789b4bd25173849ec364d5810f34f,
+edamam_api_key: 6b6789b4bd25173849ec364d5810f34f
 edamam_app_key: ec41a8fc
+twilio_sid: AC3f2d67730ed9080fdea1851452191601
+twilio_token: 7f0c067b86caa7221c4bcca5ba3b4087

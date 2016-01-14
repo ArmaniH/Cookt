@@ -28,47 +28,32 @@ $(document).ready(function(){
 });
   // var i = 1;
   function addToRecipeList(recipe){
-  // console.log(recipe.label);
-  // console.log(recipe.image);
-  // $(this).attr('id', "" + (i + 1))
   var $recipe = $('<a href="' +recipe.url +'"> </a>')
     $recipe.append('<h2>' + recipe.label + '</h2>')
-    // $recipe.append('<a href="' +recipe.url +'"> </a>')
     $recipe.append('<p>' + recipe.source + '</p>')
     $recipe.append('<img src="'+recipe.image+'"/>')
-    // $('.jsrecipes').attr('id', "" + (i + 1));
     $('.jsrecipes').append($recipe)
       $(".jsrecipes").each(function(i) {
 
-      // $(this).attr('id', "" + (i + 1));
-      $(".jsrecipes").click(function (event) {
-   href = $(".jsrecipes").attr('href');
-   $('iframe').show('slow')// $('#recipe_url').append(recipe.url)
-   $('#iframe').attr('src', recipe.url)
-   event.preventDefault();
-  //  alert(href);
-   return false;
-  });
+    $(".jsrecipes").on('click', function(event) {
+       href = $(".jsrecipes").attr('src');
+       $('iframe').show('slow')// $('#recipe_url').append(recipe.url)
+       $('#iframe').attr('src', recipe.url)
+        event.preventDefault();
+       alert(href);
+        return false;
+});
 })
     // i++
-
-  // $('.jsrecipes').on('click', function(){
-  //   $('iframe').show('slow')// $('#recipe_url').append(recipe.url)
-  //   $('#iframe').attr('src', recipe.url)
-  //   return false;
-  //
-  // });
 
   $('#closeIframe').on('click', function(){
     $('iframe').hide('fast')
     // return false;
   });
-
   // function breakout() {
   //   if (window.top != window.location) {
   //       window.top.location = "";
     // }
-    // $('#breakIframe').on('click', breakout()
     //
     // }
 // });

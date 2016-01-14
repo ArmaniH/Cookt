@@ -43,19 +43,21 @@ $(document).ready(function(){
       // $(this).attr('id', "" + (i + 1));
       $(".jsrecipes").click(function (event) {
    href = $(".jsrecipes").attr('href');
+   $('iframe').show('slow')// $('#recipe_url').append(recipe.url)
+   $('#iframe').attr('src', recipe.url)
    event.preventDefault();
-   alert(href);
+  //  alert(href);
    return false;
   });
 })
     // i++
 
-  $('.jsrecipes').on('click', function(){
-    $('iframe').show('slow')// $('#recipe_url').append(recipe.url)
-    $('#iframe').attr('src', recipe.url)
-    return false;
-
-  });
+  // $('.jsrecipes').on('click', function(){
+  //   $('iframe').show('slow')// $('#recipe_url').append(recipe.url)
+  //   $('#iframe').attr('src', recipe.url)
+  //   return false;
+  //
+  // });
 
   $('#closeIframe').on('click', function(){
     $('iframe').hide('fast')

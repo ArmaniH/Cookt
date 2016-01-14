@@ -26,8 +26,8 @@ $(document).ready(function(){
     });
   // });
 });
-  var i = 1;
-  function addToRecipeList(recipe, i){
+  // var i = 1;
+  function addToRecipeList(recipe){
   // console.log(recipe.label);
   // console.log(recipe.image);
   // $(this).attr('id', "" + (i + 1))
@@ -36,11 +36,19 @@ $(document).ready(function(){
     // $recipe.append('<a href="' +recipe.url +'"> </a>')
     $recipe.append('<p>' + recipe.source + '</p>')
     $recipe.append('<img src="'+recipe.image+'"/>')
-    // $(".jsrecipes").each(function(i) {
     // $('.jsrecipes').attr('id', "" + (i + 1));
     $('.jsrecipes').append($recipe)
+      $(".jsrecipes").each(function(i) {
 
-    i++
+      // $(this).attr('id', "" + (i + 1));
+      $(".jsrecipes").click(function (event) {
+   href = $(".jsrecipes").attr('href');
+   event.preventDefault();
+   alert(href);
+   return false;
+  });
+})
+    // i++
 
   $('.jsrecipes').on('click', function(){
     $('iframe').show('slow')// $('#recipe_url').append(recipe.url)
@@ -51,7 +59,7 @@ $(document).ready(function(){
 
   $('#closeIframe').on('click', function(){
     $('iframe').hide('fast')
-    return false;
+    // return false;
   });
 
   // function breakout() {

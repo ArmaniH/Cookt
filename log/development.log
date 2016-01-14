@@ -33866,3 +33866,1219 @@ Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e
 
 
 Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 18:41:18 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 18:43:50 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 496ms (Views: 487.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 18:43:51 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 18:43:51 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 18:43:51 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 18:43:51 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 18:43:51 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 18:43:51 -0500
+
+
+Started GET "/assets/script.self-2d7714381428074d3c02412c5338a8a704cc0cda4ba5def112e5fca2f5c959fd.js?body=1" for ::1 at 2016-01-13 18:43:51 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 18:43:51 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 18:45:00 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 329ms (Views: 312.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 18:45:00 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 18:45:00 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 18:45:00 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 18:45:00 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 18:45:01 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 18:45:01 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 18:45:01 -0500
+
+
+Started GET "/assets/script.self-17bc4ae7020b7a67718e47162d70279290debec7d435e67beb9bafbe6546deb2.js?body=1" for ::1 at 2016-01-13 18:45:01 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 18:50:10 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 320ms (Views: 307.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 18:50:11 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 18:50:11 -0500
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 18:50:11 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 18:50:11 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 18:50:11 -0500
+
+
+Started GET "/assets/script.self-61220fae4a11061b85a25a6fc1a2d8f52df933b9b7f3abec058f6238e7fb20bf.js?body=1" for ::1 at 2016-01-13 18:50:11 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 18:50:11 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 18:50:11 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 18:54:16 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 355ms (Views: 337.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 18:54:17 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 18:54:17 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 18:54:17 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 18:54:17 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 18:54:17 -0500
+
+
+Started GET "/assets/script.self-0c46449ed268a5333c931bdd12f99ffa9b98c6f5f8cb49ac3fc645471196f403.js?body=1" for ::1 at 2016-01-13 18:54:17 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 18:54:17 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 18:54:17 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 18:55:19 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 110ms (Views: 95.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 18:55:20 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 18:55:20 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 18:55:20 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 18:55:20 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 18:55:20 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 18:55:20 -0500
+
+
+Started GET "/assets/script.self-0c46449ed268a5333c931bdd12f99ffa9b98c6f5f8cb49ac3fc645471196f403.js?body=1" for ::1 at 2016-01-13 18:55:20 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 18:55:20 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 18:57:44 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 352ms (Views: 334.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 18:57:48 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 106ms (Views: 104.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 18:57:48 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 18:57:48 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 18:57:48 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 18:57:48 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 18:57:48 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 18:57:48 -0500
+
+
+Started GET "/assets/script.self-88fdf90907fc6ced17ae85f4614fcef2e34d44bb131fc0257e741462287729e3.js?body=1" for ::1 at 2016-01-13 18:57:48 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 18:57:48 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:01:30 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 320ms (Views: 292.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:01:31 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:01:31 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:01:32 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:01:32 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:01:32 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:01:32 -0500
+
+
+Started GET "/assets/script.self-e211f6b9e0937cd4c1280f592d9f1d65d2c8b890f83a6972cf9c6e7c517a8a5d.js?body=1" for ::1 at 2016-01-13 19:01:32 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:01:32 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:02:31 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 370ms (Views: 356.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:02:32 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:02:32 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:02:32 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:02:32 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:02:32 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:02:32 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:02:32 -0500
+
+
+Started GET "/assets/script.self-cc1d5571e96eb997d17e3e74e69a0f7d247ec2861e669ad4a5b55113344b3614.js?body=1" for ::1 at 2016-01-13 19:02:32 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:08:17 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 428ms (Views: 415.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:08:17 -0500
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:08:17 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:08:17 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:08:18 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:08:18 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:08:18 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:08:18 -0500
+
+
+Started GET "/assets/script.self-844767667ab3ef3cf9c3f7a0987f807cfcaf6993216660445abd2868fa7ddc92.js?body=1" for ::1 at 2016-01-13 19:08:18 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:10:01 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 336ms (Views: 324.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:10:02 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:10:02 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:10:02 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:10:02 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:10:02 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:10:02 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:10:02 -0500
+
+
+Started GET "/assets/script.self-9db701e91ed4d5ce1cbf858cbac31d9820c4870c328cdfef5f54c0ab455a421f.js?body=1" for ::1 at 2016-01-13 19:10:02 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:15:45 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 378ms (Views: 359.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:15:46 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:15:46 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:15:46 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:15:46 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:15:46 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:15:46 -0500
+
+
+Started GET "/assets/script.self-4d25a123ba7ef322c0fe07f0ae63b467baaca7a4117e0301468a15bc2d9e06fd.js?body=1" for ::1 at 2016-01-13 19:15:46 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:15:46 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:16:34 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 150ms (Views: 138.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:16:35 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:16:35 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:16:35 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:16:35 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:16:35 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:16:35 -0500
+
+
+Started GET "/assets/script.self-4d25a123ba7ef322c0fe07f0ae63b467baaca7a4117e0301468a15bc2d9e06fd.js?body=1" for ::1 at 2016-01-13 19:16:35 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:16:35 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:23:04 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 244ms (Views: 181.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:23:05 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:23:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:23:05 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:23:05 -0500
+
+
+Started GET "/assets/script.self-9db701e91ed4d5ce1cbf858cbac31d9820c4870c328cdfef5f54c0ab455a421f.js?body=1" for ::1 at 2016-01-13 19:23:05 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:23:06 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:23:06 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:23:06 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:23:22 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 329ms (Views: 312.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:23:23 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:23:23 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:23:23 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:23:23 -0500
+
+
+Started GET "/assets/script.self-9db701e91ed4d5ce1cbf858cbac31d9820c4870c328cdfef5f54c0ab455a421f.js?body=1" for ::1 at 2016-01-13 19:23:23 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:23:23 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:23:23 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:23:23 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:23:40 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (14.7ms)
+Completed 200 OK in 251ms (Views: 228.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:23:40 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:23:40 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:23:40 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:23:40 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:23:40 -0500
+
+
+Started GET "/assets/script.self-9db701e91ed4d5ce1cbf858cbac31d9820c4870c328cdfef5f54c0ab455a421f.js?body=1" for ::1 at 2016-01-13 19:23:40 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:23:40 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:23:41 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:23:45 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 43ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:23:46 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:23:46 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:23:46 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:23:46 -0500
+
+
+Started GET "/assets/script.self-9db701e91ed4d5ce1cbf858cbac31d9820c4870c328cdfef5f54c0ab455a421f.js?body=1" for ::1 at 2016-01-13 19:23:46 -0500
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:23:46 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:23:46 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:23:46 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:23:56 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 117ms (Views: 100.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:23:56 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:23:56 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:23:56 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:23:56 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:23:56 -0500
+
+
+Started GET "/assets/script.self-844767667ab3ef3cf9c3f7a0987f807cfcaf6993216660445abd2868fa7ddc92.js?body=1" for ::1 at 2016-01-13 19:23:56 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:23:56 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:23:56 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:28:40 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 354ms (Views: 340.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:28:41 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:28:41 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:28:41 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:28:41 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:28:41 -0500
+
+
+Started GET "/assets/script.self-5a683ca38fd86ea5c396ff0cf71a34af7c453912175fc8220a3225a85fd27ba4.js?body=1" for ::1 at 2016-01-13 19:28:41 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:28:42 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:28:42 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:34:23 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 330ms (Views: 327.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:34:24 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:34:24 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:34:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:34:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:34:24 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:34:25 -0500
+
+
+Started GET "/assets/script.self-9b7ab2001868a322f8f3cc516de41b35adc1380e2cb76535a92c50344452cf7f.js?body=1" for ::1 at 2016-01-13 19:34:25 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:34:25 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:34:44 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 655ms (Views: 627.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:34:45 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:34:45 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:34:45 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:34:45 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:34:45 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:34:45 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:34:45 -0500
+
+
+Started GET "/assets/script.self-7a02cfe55f835ed098ec86847846ab1cc949df7f431b5bdb112781644309c248.js?body=1" for ::1 at 2016-01-13 19:34:45 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:35:17 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 159ms (Views: 137.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:35:17 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:35:17 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:35:17 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:35:18 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:35:18 -0500
+
+
+Started GET "/assets/script.self-7a02cfe55f835ed098ec86847846ab1cc949df7f431b5bdb112781644309c248.js?body=1" for ::1 at 2016-01-13 19:35:18 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:35:18 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:35:18 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:35:48 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 360ms (Views: 349.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:35:49 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:35:49 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:35:49 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:35:49 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:35:49 -0500
+
+
+Started GET "/assets/script.self-e003ee3be31e52ece5b46f52b868a890aa2aaf43dab6b56d04c2aa3b4d743568.js?body=1" for ::1 at 2016-01-13 19:35:49 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:35:49 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:35:49 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:36:22 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 125ms (Views: 105.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:36:22 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:36:22 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:36:22 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:36:22 -0500
+
+
+Started GET "/assets/script.self-e003ee3be31e52ece5b46f52b868a890aa2aaf43dab6b56d04c2aa3b4d743568.js?body=1" for ::1 at 2016-01-13 19:36:22 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:36:22 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:36:22 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:36:22 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:37:39 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 327ms (Views: 312.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:37:40 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:37:40 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:37:40 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:37:40 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:37:40 -0500
+
+
+Started GET "/assets/script.self-070dc2a7380de6327fcb9ac88dd25b5f39aeae7b947b0740c96ae335e085183c.js?body=1" for ::1 at 2016-01-13 19:37:40 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:37:40 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:37:40 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:38:18 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 453ms (Views: 436.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:38:19 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:38:19 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:38:19 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:38:19 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:38:19 -0500
+
+
+Started GET "/assets/script.self-181f831c8edc00b62213eb9b7f9aba5bb2c7eaf0566c757caf9659aaa7d92662.js?body=1" for ::1 at 2016-01-13 19:38:19 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:38:19 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:38:19 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:38:26 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 36ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:38:26 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:38:26 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:38:26 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:38:26 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:38:26 -0500
+
+
+Started GET "/assets/script.self-181f831c8edc00b62213eb9b7f9aba5bb2c7eaf0566c757caf9659aaa7d92662.js?body=1" for ::1 at 2016-01-13 19:38:26 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:38:26 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:38:26 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:41:19 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 278ms (Views: 265.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:41:20 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:41:20 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:41:20 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:41:20 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:41:20 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:41:20 -0500
+
+
+Started GET "/assets/script.self-b5d6b1479e7f60eac6692dd07ab6c5dc64bcb483b9e0df2b0a7125626b16afb1.js?body=1" for ::1 at 2016-01-13 19:41:20 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:41:20 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:41:40 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 302ms (Views: 263.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:41:41 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:41:41 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:41:41 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:41:41 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:41:41 -0500
+
+
+Started GET "/assets/script.self-b5d6b1479e7f60eac6692dd07ab6c5dc64bcb483b9e0df2b0a7125626b16afb1.js?body=1" for ::1 at 2016-01-13 19:41:41 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:41:41 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:41:41 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:43:41 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 113ms (Views: 97.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:43:42 -0500
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:43:42 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:43:42 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:43:42 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:43:42 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:43:42 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:43:42 -0500
+
+
+Started GET "/assets/script.self-b5d6b1479e7f60eac6692dd07ab6c5dc64bcb483b9e0df2b0a7125626b16afb1.js?body=1" for ::1 at 2016-01-13 19:43:42 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:44:01 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 117ms (Views: 101.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:44:01 -0500
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:44:01 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:44:01 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:44:01 -0500
+
+
+Started GET "/assets/script.self-b5d6b1479e7f60eac6692dd07ab6c5dc64bcb483b9e0df2b0a7125626b16afb1.js?body=1" for ::1 at 2016-01-13 19:44:02 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:44:02 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:44:02 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:44:02 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:44:53 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 342ms (Views: 324.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:44:54 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:44:54 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:44:54 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:44:54 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:44:54 -0500
+
+
+Started GET "/assets/script.self-43e66f56101425f5337fbb4f91ffb34e4101c272d1dd881209f96ed45485499d.js?body=1" for ::1 at 2016-01-13 19:44:54 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:44:54 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:44:54 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:45:11 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 94ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:45:12 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:45:12 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:45:12 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:45:12 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:45:12 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:45:12 -0500
+
+
+Started GET "/assets/script.self-43e66f56101425f5337fbb4f91ffb34e4101c272d1dd881209f96ed45485499d.js?body=1" for ::1 at 2016-01-13 19:45:12 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:45:12 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:47:09 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 393ms (Views: 377.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:47:10 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:47:10 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:47:10 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:47:10 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:47:10 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:47:10 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:47:10 -0500
+
+
+Started GET "/assets/script.self-c2d12f03ab4fd112f649b243e3cc23327b77bda34571267e98ab5200fcc6028a.js?body=1" for ::1 at 2016-01-13 19:47:10 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:58:07 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 471ms (Views: 457.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:58:08 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:58:08 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:58:08 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:58:09 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:58:09 -0500
+
+
+Started GET "/assets/script.self-ad5aa29f7e82cfd0cc175de5ee0bbf3b0764d0fc9ffc2848e4bd9f4cadd3aa19.js?body=1" for ::1 at 2016-01-13 19:58:09 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:58:09 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:58:09 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:58:21 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 414ms (Views: 396.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:58:22 -0500
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:58:22 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:58:22 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:58:22 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:58:22 -0500
+
+
+Started GET "/assets/script.self-d587f28100f502494ccab978f2d5657bd052d081aab74dd045842cbdffa72b3b.js?body=1" for ::1 at 2016-01-13 19:58:22 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:58:22 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:58:22 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 19:59:11 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 382ms (Views: 357.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 19:59:11 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 19:59:11 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 19:59:11 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 19:59:11 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 19:59:11 -0500
+
+
+Started GET "/assets/script.self-2426fbe3756d010cf217cdbc51755acb3e59b31e7dd79ba85f08868611d52563.js?body=1" for ::1 at 2016-01-13 19:59:12 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 19:59:12 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 19:59:12 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 20:07:23 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 150ms (Views: 131.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 20:07:23 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 20:07:23 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 20:07:24 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 20:07:24 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 20:07:24 -0500
+
+
+Started GET "/assets/script.self-d587f28100f502494ccab978f2d5657bd052d081aab74dd045842cbdffa72b3b.js?body=1" for ::1 at 2016-01-13 20:07:24 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 20:07:24 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 20:07:24 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 20:08:06 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 340ms (Views: 330.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 20:08:06 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 20:08:06 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 20:08:06 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 20:08:06 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 20:08:06 -0500
+
+
+Started GET "/assets/script.self-f8d7b404a0284a080f0053c9eba6ee8e488fa4e4de58a1a637099d6b9610c258.js?body=1" for ::1 at 2016-01-13 20:08:07 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 20:08:07 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 20:08:07 -0500
+
+
+Started GET "/?ingredients=cookie" for ::1 at 2016-01-13 20:11:46 -0500
+Processing by RecipesController#index as HTML
+  Parameters: {"ingredients"=>"cookie"}
+  Rendered recipes/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 145ms (Views: 115.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-6b2a8b28f3397b48b20269ecd18ec807fee11960911c57f5f92c77a7603a645b.css?body=1" for ::1 at 2016-01-13 20:11:47 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2016-01-13 20:11:47 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2016-01-13 20:11:47 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-01-13 20:11:47 -0500
+
+
+Started GET "/assets/script.self-b5d6b1479e7f60eac6692dd07ab6c5dc64bcb483b9e0df2b0a7125626b16afb1.js?body=1" for ::1 at 2016-01-13 20:11:47 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-01-13 20:11:47 -0500
+
+
+Started GET "/assets/timer.self-71ecd6d6789997e6671a588fab16e078986ac8a6e64d085e4d9bb60b1bd5a0f3.js?body=1" for ::1 at 2016-01-13 20:11:47 -0500
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2016-01-13 20:11:47 -0500

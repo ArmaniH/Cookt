@@ -1,29 +1,35 @@
 $(document).ready(function(){
-  var i = 1
-  $('#addTimer').click(function(i){
-    $('#timerContainer').after('<div id="timerContainer"> <button id="removeTimer">Remove Timer</button> <div class="title"> <p></p> </div> <div class="clock"> <p>0:00</p> </div> <input id="title" type="text" placeholder="Enter item here"> <input id="request" type="text" placeholder="Enter an amount here"> <a href="#" class="click">Click here</a> </div>')//.attr('id', "" +i);
-    // $("#timerContainer").each(function(event, i) {
-    // });
-    // event.preventDefault
-    i++
+
+  $('#addTimer').on('click', function(){
+    $('#timerDiv').show('fast')
   });
   $('#timerDiv').on('click','#removeTimer', function(){
-    $(this).parent().remove();
+    $('#timerDiv').hide('fast');
     // event.preventDefault
   });
-  $('.click').click(function () {
-      var inputAmount = $('#request').val();
-      var inputTitle = $('#title').val();
-      var cleanAmount = inputAmount.split(':');
-      var totalAmount = parseInt(cleanAmount[0] | 0) * 60 + parseInt(cleanAmount[1] | 0);
-       $('#request').val(" ");
-       $('#title').val(" ");
+  $('.timerStart').on('click', function(){
+    var inputAmount = $('#request').val();
+    var inputTitle = $('#title').val();
+    var number = $('#phoneNumber').val();
+    var cleanAmount = inputAmount.split(':');
+    var totalAmount = parseInt(cleanAmount[0] | 0) * 60 + parseInt(cleanAmount[1] | 0);
+     $('#request').val(" ");
+     $('#title').val(" ");
+     $('#phoneNumber').val(" ");
 
-      var loop, theFunction = function () {
-          totalAmount--;
-          if (totalAmount == 0) {
-              clearInterval(loop);
-          }
+    var loop, theFunction = function() {
+      totalAmount--;
+      if (totalAmount == 0) {
+        clearInterval(loop);
+        // var url = "https://api.clockworksms.com/http/send.aspx?key=0090373c66614705b4f2fdd41c10a28fc126f76f&to="+number + "&content=Come+N+Get+It!"
+        $.ajax({
+          url: url,
+          type: "POST",
+          dataType: "jsonp"
+        }).done(function(response){
+          console.log(response)
+        })
+      }
           // pause: function(){
           //   clearInterval(this.interval);
           //   delete this.interval;
@@ -32,17 +38,16 @@ $(document).ready(function(){
           //   if (!this.interval) this.start()
           // }
 
-          // var hours = parseInt(totalAmount/3600);
-          var minutes = parseInt(totalAmount/60);
-          var seconds = parseInt(totalAmount%60);
-          var title = inputTitle;
-          if(seconds < 10)
-              seconds = "0"+seconds;
-          $('.clock').text(minutes + ":" + seconds);
-          $('.title').text(title);
+        var minutes = parseInt(totalAmount/60);
+        var seconds = parseInt(totalAmount%60);
+        var title = inputTitle;
+        if(seconds < 10)
+            seconds = "0"+seconds;
+        $('.clock').text(minutes + ":" + seconds);
+        $('.title').text(title);
       };
 
       var loop  = setInterval(theFunction, 1000);
+      event.preventDefault
   })
-
 });

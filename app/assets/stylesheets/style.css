@@ -11,6 +11,10 @@ h1{
   border-style:
 }
 
+#timerDiv{
+  display: none;
+}
+
 .clock > p{
   padding: 15px;
 	border-radius: 3px;

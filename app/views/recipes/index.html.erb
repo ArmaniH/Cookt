@@ -1,24 +1,21 @@
 <h1>Cookt</h1>
+<div id="timerShow">
+  <button id="addTimer">Add Timer</button>
+</div>
 <div id="timerDiv">
   <div id="timerContainer">
-    <button id="addTimer">Add Timer</button>
-  </div>
-  <div id="timerContainer">
   <button id="removeTimer">Remove Timer</button>
-      <div class="title">
-        <p></p>
-      </div>
-      <div class="clock">
-        <p>0:00</p>
-      </div>
-      <input id="title" type="text" placeholder="Enter item here">
-      <input id="request" type="text" placeholder="Enter an amount here">
-      <a href="#" class="click"><img src="app/assets/images/Egg_Timer-512.jpg" alt="egg timer" /></a>
-
-      <%= image_tag("app/assets/images/Egg_Timer-512.jpg") %>
-      </div>
-<%= @send_text_message %>
-
+    <div class="title">
+      <p></p>
+    </div>
+    <div class="clock">
+      <p>0:00</p>
+    </div>
+    <input id="title" type="text" placeholder="Enter item here">
+    <input id="request" type="text" placeholder="Enter time in minutes">
+    <input id="phoneNumber" type="text" value="+1" placeholder="Enter number here">
+    <input type="image" class="timerStart" img src="Egg_Timer-512.jpg" alt="egg timer">
+    </div>
 </div>
 
 <form method="get" action="#">

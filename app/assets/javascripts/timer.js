@@ -23,7 +23,7 @@ $(document).ready(function(){
           totalAmount--;
           if (totalAmount == 0) {
               clearInterval(loop);
-          },
+          }
           // pause: function(){
           //   clearInterval(this.interval);
           //   delete this.interval;
@@ -38,7 +38,7 @@ $(document).ready(function(){
           var title = inputTitle;
           if(seconds < 10)
               seconds = "0"+seconds;
-          $('.clock').text(hours + ":" + minutes + ":" + seconds);
+          $('.clock').text(minutes + ":" + seconds);
           $('.title').text(title);
       };
 

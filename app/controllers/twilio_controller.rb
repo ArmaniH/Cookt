@@ -4,7 +4,7 @@ class TwilioController < ApplicationController
   end
 
   def send_text_message
-  number_to_send_to = "+1XXXXXXXXXX"
+  @number_to_send_to = "+18048688653"
 
   twilio_sid = ENV["TWILIO_SID"]
   twilio_token = ENV["TWILIO_TOKEN"]

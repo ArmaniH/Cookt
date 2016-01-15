@@ -28,6 +28,12 @@ gem 'httparty'
 gem 'figaro'
 
 gem 'twilio-ruby'
+
+gem 'rest-client', '~> 1.6.7'
+
+gem 'json', '~> 1.6.6'
+
+gem 'htmlentities', '~> 4.3.1'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

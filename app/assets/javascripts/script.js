@@ -1,4 +1,19 @@
 $(document).ready(function(){
+
+  var url = "https://api.clockworksms.com/http/send.aspx?key=0090373c66614705b4f2fdd41c10a28fc126f76f&to=+18048688653&content=Hello+World"
+  $.ajax({
+    url: url,
+    type: "POST",
+    dataType: "jsonp"
+  }).done(function(response){
+    console.log(response)
+})
+
+
+
+
+
+  // $("#recipeSearch").on("click", function(){
   var ingredientSearch = $('#ingredients');
   var ingredientQuery = "apple"//ingredientSearch.val();
 
@@ -34,9 +49,9 @@ function addToRecipeList(recipe){
     });
   }
 
-
   $('#closeIframe').on('click', function(){
     $('iframe').hide('fast')
+    // return false;
   });
   // function breakout() {
   //   if (window.top != window.location) {
@@ -44,4 +59,5 @@ function addToRecipeList(recipe){
   // }
   //
   // }
+
 });

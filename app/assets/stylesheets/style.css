@@ -1,7 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+@import url(https://fonts.googleapis.com/css?family=Exo+2:600);
 body{
   background-color: lemonchiffon;
 }
 
+h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4rem;
+  margin: 1rem;
+  border-style:
+}
+
+.clock > p{
+  padding: 15px;
+	border-radius: 3px;
+	background: #00816A;
+	display: inline-block;
+  font-family: 'Exo 2', sans-serif;
+}
+
 iframe{
   display: none;
+}
+
+table{
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+#timerContainer{
+  background-color: #fff;
 }

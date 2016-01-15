@@ -1,6 +1,11 @@
 source 'https://rubygems.org'
+group :development do
+  gem 'sqlite3'
+end
 
-
+group :production do
+  gem 'pg'
+end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
@@ -31,7 +36,7 @@ gem 'twilio-ruby'
 
 gem 'rest-client', '~> 1.6.7'
 
-gem 'json', '~> 1.6.6'
+gem 'json'
 
 gem 'htmlentities', '~> 4.3.1'
 # Use ActiveModel has_secure_password

@@ -1,14 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 @import url(https://fonts.googleapis.com/css?family=Exo+2:600);
 body{
-  background-color: lemonchiffon;
+  background-color: #e7e7e7;
 }
 
 h1{
   font-family: 'Permanent Marker', cursive;
   font-size: 4rem;
-  margin: 1rem;
-  border-style:
+  text-align: center;
+  margin: 0 auto;
+  border-style: solid;
+  background-color: #fff;
 }
 
 #timerDiv{
@@ -21,6 +23,7 @@ h1{
 	background: #00816A;
 	display: inline-block;
   font-family: 'Exo 2', sans-serif;
+  margin: 0 auto;
 }
 
 iframe{

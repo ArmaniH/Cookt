@@ -21,7 +21,7 @@ $(document).ready(function(){
       totalAmount--;
       if (totalAmount == 0) {
         clearInterval(loop);
-        // var url = "https://api.clockworksms.com/http/send.aspx?key=0090373c66614705b4f2fdd41c10a28fc126f76f&to="+number + "&content=Come+N+Get+It!"
+        var url = "https://api.clockworksms.com/http/send.aspx?key=0090373c66614705b4f2fdd41c10a28fc126f76f&to="+number + "&content=Come+N+Get+It!"
         $.ajax({
           url: url,
           type: "POST",

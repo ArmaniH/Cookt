@@ -1,10 +1,10 @@
 $(document).ready(function(){
 
-  $("#recipeSearch").on("click", function(){
+  $('#recipeSearch').on('click', function(){
   var ingredientSearch = $('#ingredients');
   var ingredientQuery = ingredientSearch.val();
 
-  var url = "https://api.edamam.com/search?q="+ingredientQuery + "&id=ec41a8fc&key=6b6789b4bd25173849ec364d5810f34f.json"
+  var url = "https://api.edamam.com/search?q="+ingredientQuery + "&id={ENV['edamam_app_key]}&key={ENV['edamam_api_key']}.json"
   $.ajax({
     url: url,
     type: "get",
@@ -15,14 +15,14 @@ $(document).ready(function(){
     for (var i = 0; i < hits.length; i++){
       var hit = hits[i]
       addToRecipeList(hit.recipe)
-      event.preventDefault();
+      // event.preventDefault();
       }
     }).fail(function(){
       console.log("Ajax request fails!")
     }).always(function(){
       console.log("This always happens regardless of successful ajax request or not.")
-    });
-  });
+    })
+  })
 
 function addToRecipeList(recipe){
   var $recipe = $('<a href="' +recipe.url +'"> </a>')

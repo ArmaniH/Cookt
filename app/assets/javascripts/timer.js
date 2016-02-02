@@ -48,6 +48,6 @@ $(document).ready(function(){
       };
 
       var loop  = setInterval(theFunction, 1000);
-      event.preventDefault
+      // event.preventDefault
   })
 });

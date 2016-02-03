@@ -1,8 +1,10 @@
 $(document).ready(function(){
 
-  $('#recipeSearch').on('click', function(){
+  $('#recipeSearch').click(function(event){
   var ingredientSearch = $('#ingredients');
   var ingredientQuery = ingredientSearch.val();
+  $('.jsrecipes').empty('');
+  $('#ingredients').val('');
 
   var url = "https://api.edamam.com/search?q="+ingredientQuery + "&id={ENV['edamam_app_key]}&key={ENV['edamam_api_key']}.json"
   $.ajax({
@@ -15,14 +17,13 @@ $(document).ready(function(){
     for (var i = 0; i < hits.length; i++){
       var hit = hits[i]
       addToRecipeList(hit.recipe)
-      // event.preventDefault();
-      }
-    }).fail(function(){
+    }}).fail(function(){
       console.log("Ajax request fails!")
     }).always(function(){
       console.log("This always happens regardless of successful ajax request or not.")
     })
-  })
+  });
+  event.preventDefault();
 
 function addToRecipeList(recipe){
   var $recipe = $('<a href="' +recipe.url +'"> </a>')
@@ -30,7 +31,7 @@ function addToRecipeList(recipe){
   $recipe.append('<p>' + recipe.source + '</p>')
   $recipe.append('<img src="'+recipe.image+'"/>')
   $('.jsrecipes').append($recipe)
-    $("a").click(function(event) {
+    $("a").click(function(event){
       $('iframe').show('slow').attr('src', $(this).attr('href'));// $('#recipe_url').append(recipe.url)
       event.preventDefault();
     });
@@ -46,4 +47,4 @@ function addToRecipeList(recipe){
   //
   // }
 
-});
+})

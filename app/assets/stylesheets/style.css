@@ -49,3 +49,13 @@ table{
 #timerContainer{
   background-color: #fff;
 }
+
+img{
+  width: 20%;
+}
+
+.jsrecipes{
+  display: inline;
+  width: 50%;
+  /*margin: 0px auto 0px auto}*/
+    }

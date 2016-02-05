@@ -32,6 +32,7 @@ $(document).ready(function(){
     $recipe.append('<img src="'+recipe.image+'"/>')
     $('.jsrecipes').append($recipe)
     $("a").click(function(event){
+      $("html, body").animate({ scrollTop: 0 }, 600);
       $('iframe').show('slow').attr('src', $(this).attr('href'));// $('#recipe_url').append(recipe.url)
       event.preventDefault();
     });

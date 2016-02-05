@@ -3,10 +3,10 @@ $(document).ready(function(){
   $('#addTimer').on('click', function(){
     $('#timerDiv').show('fast')
   });
-  $('#timerDiv').on('click','#removeTimer', function(){
-    $('#timerDiv').hide('fast');
-    // event.preventDefault
+  $('#timerDiv').on('click','#pauseTimer', function(){
+    clearInterval(loop);
   });
+    // event.preventDefault
   $('.timerStart').on('click', function(){
     var inputAmount = $('#request').val();
     var inputTitle = $('#title').val();
@@ -48,6 +48,12 @@ $(document).ready(function(){
       };
 
       var loop  = setInterval(theFunction, 1000);
+
+    $('#timerDiv').on('click','#removeTimer', function(){
+      clearInterval(loop);
+      $('#timerDiv').hide('fast');
+      $('.clock').text('0:00');
       // event.preventDefault
+    });
   })
 });

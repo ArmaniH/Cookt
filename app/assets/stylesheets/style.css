@@ -17,11 +17,15 @@ h1{
   display: none;
 }
 
-.clock > p{
+.title{
+  font-family: 'Exo 2', sans-serif;
+}
+
+.clock {
   padding: 15px;
 	border-radius: 3px;
 	background: #00816A;
-	display: inline-block;
+	display: block;
   font-family: 'Exo 2', sans-serif;
   margin: 0 auto;
 }
